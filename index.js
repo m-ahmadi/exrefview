@@ -12,16 +12,17 @@ const tree = dirTree("./", {
 	normalizePath: true,
 	exclude: /(node_modules|#.(css|scss|js|ts|html|htm|vue|yaml|yml|sql|php|))/
 });
-var newTree = {};
-var counter = 0;
+const newTree = {};
+let counter = 0;
 
 function processJstree(input, ctx) {
 	if ( u.isObj(input) ) { // an entity to process
-		if (input.children) { // a folder
+		const children = input.children;
+		if (children) { // a folder
 			ctx.id = (counter+=1);
 			ctx.text = input.name;
 			ctx.children = [];
-			processJstree(input.children, ctx.children);
+			processJstree(children, ctx.children);
 		} else { // a file
 			ctx.id = (counter+=1);
 			ctx.text = input.name;
@@ -40,14 +41,15 @@ console.log( JSON.stringify(newTree.children) );
 
 // processDhtmlx(tree, newTree);
 // console.log( JSON.stringify(newTree.items) );
-/*
+
 function processDhtmlx(input, ctx) {
 	if ( u.isObj(input) ) { // an entity to process
-		ctx.value = input.name;
-		ctx.id = (counter+=1);
-		if (input.children) { // a folder
+		const children = input.children;
+		if (children) { // a folder
+			ctx.value = input.name;
+			ctx.id = (counter+=1);
 			ctx.items = [];
-			processDhtmlx(input.children, ctx.items);
+			processDhtmlx(children, ctx.items);
 		} else { // a file
 			ctx.value = input.name;
 			ctx.id = (counter+=1);
@@ -59,4 +61,3 @@ function processDhtmlx(input, ctx) {
 		});
 	}
 }
-*/
