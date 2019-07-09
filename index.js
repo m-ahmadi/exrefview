@@ -29,15 +29,17 @@ function processJstree(input, ctx) {
 		}
 	} else if ( u.isArr(input) ) {
 		input.forEach( (child, index) => {
-			ctx.push({ id: (counter+=1), text: child.name });
+			ctx.push({});
 			processJstree(child, ctx[index]);
 		});
 	}
 }
 
 processJstree(tree, newTree);
-
 console.log( JSON.stringify(newTree.children) );
+
+// processDhtmlx(tree, newTree);
+// console.log( JSON.stringify(newTree.items) );
 /*
 function processDhtmlx(input, ctx) {
 	if ( u.isObj(input) ) { // an entity to process
@@ -52,7 +54,7 @@ function processDhtmlx(input, ctx) {
 		}
 	} else if ( u.isArr(input) ) {
 		input.forEach( (child, index) => {
-			ctx.push({ value: child.name, id: (counter+=1) });
+			ctx.push({});
 			processDhtmlx(child, ctx[index]);
 		});
 	}
