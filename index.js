@@ -38,22 +38,21 @@ function processJstree(input, ctx) {
 processJstree(tree, newTree);
 
 console.log( JSON.stringify(newTree.children) );
-
 /*
 function processDhtmlx(input, ctx) {
 	if ( u.isObj(input) ) { // an entity to process
 		ctx.value = input.name;
-		ctx.id = input.name;
+		ctx.id = (counter+=1);
 		if (input.children) { // a folder
 			ctx.items = [];
 			processDhtmlx(input.children, ctx.items);
 		} else { // a file
 			ctx.value = input.name;
-			ctx.id = input.name;
+			ctx.id = (counter+=1);
 		}
 	} else if ( u.isArr(input) ) {
 		input.forEach( (child, index) => {
-			ctx.push({ value: child.name, id: child.name });
+			ctx.push({ value: child.name, id: (counter+=1) });
 			processDhtmlx(child, ctx[index]);
 		});
 	}
