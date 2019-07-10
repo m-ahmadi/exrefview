@@ -1,0 +1,2751 @@
+./#.js
+./algorithms & data structures
+./algorithms & data structures/@math characters.txt
+./algorithms & data structures/array notation in math.txt
+./algorithms & data structures/asymptotic analysis.txt
+./algorithms & data structures/asymptotic notation.txt
+./algorithms & data structures/bounds.txt
+./algorithms & data structures/insertion sort
+./algorithms & data structures/insertion sort analysis.txt
+./algorithms & data structures/insertion sort/insertion sort.c
+./algorithms & data structures/insertion sort/insertion sort.js
+./algorithms & data structures/kinds of analysis.txt
+./algorithms & data structures/order-of-growth-2.png
+./algorithms & data structures/order-of-growth-3.png
+./algorithms & data structures/order-of-growth-4.png
+./algorithms & data structures/order-of-growth.png
+./algorithms & data structures/pic 101.png
+./algorithms & data structures/sigma (sum).txt
+./algorithms & data structures/theta character.txt
+./angular
+./angular/#.ts
+./angular/attribute directive.ts
+./angular/cli.txt
+./angular/component template.html
+./angular/component.ts
+./angular/directive.txt
+./angular/install.txt
+./angular/module.ts
+./angular/observable.ts
+./angular/routing module.ts
+./angular/routing.html
+./angular/routing.ts
+./angular/types of ng modules.txt
+./angular/other
+./angular/other/basic.htm
+./apache
+./apache/apache default configuration when installed.txt
+./apache/apache essential config.txt
+./apache/apache with php and mysql (essential config).txt
+./apache/firewall note.png
+./apache/httpd.txt
+./apache/webserver port forwarding (better).png
+./apache/webserver port forwarding.png
+./apache/xampp vs amp.min
+./apache/xampp vs amp.min/amp-httpd.conf
+./apache/xampp vs amp.min/xampp-httpd.conf
+./arch
+./arch/arch1.png
+./arch/arch2.png
+./arch/build.ai
+./arch/env1.png
+./arch/env2.png
+./arch/env3.png
+./arch/env4.png
+./arch/stream.png
+./arch/two layer html compilation.js
+./back-end architecture
+./back-end architecture/cgi, fastcgi and others.txt
+./back-end architecture/one domain, multiple servers.txt
+./back-end architecture/web-server architecture.txt
+./bookmarks_7_7_19.html
+./bootstrap
+./bootstrap/bootsrap.txt
+./bootstrap/examples
+./bootstrap/examples/#.htm
+./bootstrap/examples/navbar.htm
+./bootstrap/examples/panels.htm
+./bootstrap/examples/tabs.htm
+./bootstrap/how to use glyphicons only.txt
+./bpmn
+./bpmn/bpmn vs uml.txt
+./bpmn/recruiter.vpp
+./browser graphics
+./browser graphics/graphics-technologies.png
+./browser graphics/pain vs. performance.png
+./browser graphics/svg vs. canvas vs. webgl.txt
+./canvas
+./canvas/#.js
+./canvas/basics.js
+./canvas/canvas element.htm
+./canvas/color, style, shadow.js
+./canvas/drag & drop (using events.js).js
+./canvas/events (another).js
+./canvas/events.js
+./canvas/line style.js
+./canvas/line.js
+./canvas/rectangle.js
+./cmd & batch
+./cmd & batch/@ An A-Z Index of the Windows Command Line.txt
+./cmd & batch/@ General.txt
+./cmd & batch/%ComSpec%.txt
+./cmd & batch/add two numbers.txt
+./cmd & batch/automation script
+./cmd & batch/automation script/get all file extensions in a folder and its subfolders.bat
+./cmd & batch/batch script.bat
+./cmd & batch/call another batch file from within a batch file.txt
+./cmd & batch/cd.txt
+./cmd & batch/change path variable per shell session.txt
+./cmd & batch/change path variable permanently.txt
+./cmd & batch/check if a command exist.txt
+./cmd & batch/check if a file or folder exist.txt
+./cmd & batch/comments in batch scripts.bat
+./cmd & batch/copy file and folder.txt
+./cmd & batch/create directory.txt
+./cmd & batch/create new file.txt
+./cmd & batch/delete file.txt
+./cmd & batch/delete folder.txt
+./cmd & batch/dir.txt
+./cmd & batch/if else.txt
+./cmd & batch/loops.txt
+./cmd & batch/move file and folder.txt
+./cmd & batch/multiple commands in a single line.txt
+./cmd & batch/open current directory in explorer.txt
+./cmd & batch/powershell.txt
+./cmd & batch/put delay between the execution of two commands.txt
+./cmd & batch/read file.txt
+./cmd & batch/rename multiple files.txt
+./cmd & batch/set command output as variable.txt
+./cmd & batch/start or stop a service.txt
+./cmd & batch/turn off echoing of commands in a .bat file.txt
+./cmd & batch/useful environment variables.txt
+./cmd & batch/variables.txt
+./cmd & batch/write to file without line break.txt
+./cmd & batch/write to file.txt
+./console
+./console/CMD Colors.txt
+./console/Cmder.txt
+./console/ConEmu.txt
+./css
+./css/[] sass
+./css/[] sass/_all-fa-fonts.scss
+./css/[] sass/_box-sizing.scss
+./css/[] sass/_mixins.scss
+./css/[] sass/_placeholder.scss
+./css/[] sass/#.scss
+./css/[] sass/cli.txt
+./css/[] sass/gradient problem.scss
+./css/[] sass/keyframes problem.scss
+./css/[] sass/my-config-style.scss
+./css/[] sass/sass.lnk
+./css/[] sass/useful examples
+./css/[] sass/useful examples/cannot use variables in import.scss
+./css/[] sass/useful examples/default.scss
+./css/[] sass/useful examples/each.scss
+./css/[] sass/useful examples/echo to console.scss
+./css/[] sass/useful examples/extend.scss
+./css/[] sass/useful examples/for.scss
+./css/[] sass/useful examples/function.scss
+./css/[] sass/useful examples/if.scss
+./css/[] sass/useful examples/import and everything you need to know.scss
+./css/[] sass/useful examples/list.scss
+./css/[] sass/useful examples/mixin.scss
+./css/[] sass/useful examples/official examples.scss
+./css/[] sass/useful examples/parent selector.scss
+./css/[] sass/useful examples/random.scss
+./css/[] sass/useful examples/sass vs scss.scss
+./css/[] sass/useful examples/type-of.scss
+./css/[] sass/useful examples/unquote.scss
+./css/[] sass/useful examples/variable.scss
+./css/[] sass/useful examples/general notes about how sass works.txt
+./css/#.css
+./css/advanced selectors.txt
+./css/attribute-value selector.css
+./css/box-shadow.css
+./css/box-sizing.css
+./css/charset.css
+./css/circle example
+./css/circle example/normal_circle.htm
+./css/circle example/resize_with_content_improved.htm
+./css/circle example/resize_with_content.htm
+./css/combine a background image and gradients.txt
+./css/en-fallback-fonts.css
+./css/font-face.css
+./css/font-size and everything you need to know.css
+./css/font-size-adjust.css
+./css/font-smoothing.css
+./css/gradient transition with background-position.htm
+./css/hide arrow buttons in number input.css
+./css/icon font example.txt
+./css/ie-edge.txt
+./css/img vs background-image and positioning.txt
+./css/import in css and why it's bad.css
+./css/make a circle.css
+./css/media queries.css
+./css/multiline text in table cell.css
+./css/multiple background images.css
+./css/multiple class and id and tag selectors.css
+./css/noscript.htm
+./css/notes about ie9.txt
+./css/placeholder.css
+./css/px vs em vs rem.css
+./css/remove default input highlighting.txt
+./css/responsive image.css
+./css/rules precedence.css
+./css/text in paragraph goes outside of p element width.css
+./css/text-align.css
+./css/TriangleBreadcrumbs
+./css/TriangleBreadcrumbs/css
+./css/TriangleBreadcrumbs/css/style.css
+./css/TriangleBreadcrumbs/index.htm
+./css/valid pseudo class.txt
+./css/viewport.txt
+./css/webkit scrollbar.css
+./css/when hovering over an element do something to another element.htm
+./curl
+./curl/curl.txt
+./data modeling
+./data modeling/basic.txt
+./data modeling/breaking down social system components.txt
+./data modeling/conceptual.txt
+./data modeling/design patterns
+./data modeling/design patterns/dda practices.txt
+./data modeling/design patterns/useful questions in decision making process.txt
+./data modeling/logical.txt
+./data modeling/note
+./data modeling/note/composite key.txt
+./data modeling/note/date valid form.txt
+./data modeling/note/identifying vs non-identifying relationships.txt
+./data modeling/note/primary key is always indexed.txt
+./data modeling/note/pseudokey.txt
+./data modeling/note/stored procedure vs function.txt
+./data modeling/note/what is an ad hoc query.txt
+./data modeling/physical.txt
+./data modeling/software.txt
+./excel
+./excel/# my excel formulas.txt
+./excel/arrayformula.txt
+./excel/arrow keys move screen not cells.txt
+./excel/auto increment column.txt
+./excel/basic-vba.xlsm
+./excel/calculate percentage of number.txt
+./excel/choose formula.txt
+./excel/default value for a cell.txt
+./excel/developer tab.txt
+./excel/disable document inspector warning.txt
+./excel/formula omits adjacent cells error.txt
+./excel/functions
+./excel/functions/cell.txt
+./excel/functions/index.txt
+./excel/functions/large.txt
+./excel/functions/offset.txt
+./excel/reference a cell in another file (the file must be opened).txt
+./excel/relationship between tables.txt
+./excel/relative vs absolute cell reference.txt
+./excel/remove first or last character of string.txt
+./excel/shortcuts.txt
+./excel/sum cells if adjacent cell is blank.txt
+./excel/weighted average.txt
+./ext.txt
+./extjs
+./extjs/architecture 6.0.1.png
+./extjs/extjs.txt
+./extjs/useful examples
+./extjs/useful examples/# - Copy.js
+./extjs/useful examples/areas.txt
+./extjs/useful examples/components.js
+./extjs/useful examples/define extend instantciate.js
+./extjs/useful examples/Ext.app.Application.js
+./extjs/useful examples/Ext.app.ViewModel.js
+./extjs/useful examples/Ext.button.Button.js
+./extjs/useful examples/Ext.container.Container.js
+./extjs/useful examples/Ext.container.Viewport.js
+./extjs/useful examples/Ext.data.Model.js
+./extjs/useful examples/Ext.data.Store.js
+./extjs/useful examples/Ext.grid.Panel.js
+./extjs/useful examples/Ext.MessageBox.js
+./extjs/useful examples/Ext.panel.Panel.js
+./extjs/useful examples/Ext.tab.Panel.js
+./extjs/useful examples/Ext.window.Window.js
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/app
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/app/Application.js
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/app/store
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/app/store/MyStore.js
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/app/store/Personnel.js
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/app/view
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/app/view/main
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/app/view/main/MainController.js
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/app/view/main/MainModel.js
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/classic
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/classic/src
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/classic/src/view
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/classic/src/view/main
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/classic/src/view/main/List.js
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/classic/src/view/main/Main.js
+./extjs/useful examples/extjs-6.0.1 last app (a grid connected to another store for the second tab)/classic/src/view/main/MyList.js
+./extjs/useful examples/five ways to instantciate.js
+./extjs/useful examples/forms.js
+./extjs/useful examples/from documentation
+./extjs/useful examples/from documentation/Ext.create('Ext.panel.Panel').js
+./extjs/useful examples/from documentation/Ext.define('My.own.Window').js
+./extjs/useful examples/from documentation/Ext.define('My.sample.Person').js
+./extjs/useful examples/from documentation/Ext.Msg.confirm.js
+./extjs/useful examples/how to copy your app to apache.txt
+./extjs/useful examples/how to use ext without sencha cmd
+./extjs/useful examples/how to use ext without sencha cmd/index.htm
+./extjs/useful examples/how to use ext without sencha cmd/main.js
+./extjs/useful examples/how to use ext without sencha cmd/note.txt
+./extjs/useful examples/layouts and containers.js
+./extjs/useful examples/my learning app 1.0.0
+./extjs/useful examples/my learning app 1.0.0/app
+./extjs/useful examples/my learning app 1.0.0/app.js
+./extjs/useful examples/my learning app 1.0.0/app/Application.js
+./extjs/useful examples/my learning app 1.0.0/app/model
+./extjs/useful examples/my learning app 1.0.0/app/model/Readme.md
+./extjs/useful examples/my learning app 1.0.0/app/Readme.md
+./extjs/useful examples/my learning app 1.0.0/app/store
+./extjs/useful examples/my learning app 1.0.0/app/store/Readme.md
+./extjs/useful examples/my learning app 1.0.0/app/view
+./extjs/useful examples/my learning app 1.0.0/app/view/login
+./extjs/useful examples/my learning app 1.0.0/app/view/login/Login.js
+./extjs/useful examples/my learning app 1.0.0/app/view/main
+./extjs/useful examples/my learning app 1.0.0/app/view/main/Main.js
+./extjs/useful examples/my learning app 1.0.0/app/view/main/MainController.js
+./extjs/useful examples/my learning app 1.0.0/app/view/main/MainModel.js
+./extjs/useful examples/my learning app 1.0.0/resources
+./extjs/useful examples/my learning app 1.0.0/resources/images
+./extjs/useful examples/my learning app 1.0.0/resources/images/app
+./extjs/useful examples/my learning app 1.0.0/resources/images/app/logo.png
+./extjs/useful examples/my learning app 1.0.0/resources/Readme.md
+./extjs/useful examples/my learning app 1.0.0/sass
+./extjs/useful examples/my learning app 1.0.0/sass/etc
+./extjs/useful examples/my learning app 1.0.0/sass/etc/all.scss
+./extjs/useful examples/my learning app 1.0.1
+./extjs/useful examples/my learning app 1.0.1/app
+./extjs/useful examples/my learning app 1.0.1/app.js
+./extjs/useful examples/my learning app 1.0.1/app/Application.js
+./extjs/useful examples/my learning app 1.0.1/app/model
+./extjs/useful examples/my learning app 1.0.1/app/model/Readme.md
+./extjs/useful examples/my learning app 1.0.1/app/model/User.js
+./extjs/useful examples/my learning app 1.0.1/app/Readme.md
+./extjs/useful examples/my learning app 1.0.1/app/store
+./extjs/useful examples/my learning app 1.0.1/app/store/MyGridStore.js
+./extjs/useful examples/my learning app 1.0.1/app/store/Readme.md
+./extjs/useful examples/my learning app 1.0.1/app/view
+./extjs/useful examples/my learning app 1.0.1/app/view/login
+./extjs/useful examples/my learning app 1.0.1/app/view/login/Login.js
+./extjs/useful examples/my learning app 1.0.1/app/view/login/LoginController.js
+./extjs/useful examples/my learning app 1.0.1/app/view/main
+./extjs/useful examples/my learning app 1.0.1/app/view/main/Main.js
+./extjs/useful examples/my learning app 1.0.1/app/view/main/MainController.js
+./extjs/useful examples/my learning app 1.0.1/app/view/main/MainModel.js
+./extjs/useful examples/my learning app 1.0.1/resources
+./extjs/useful examples/my learning app 1.0.1/resources/images
+./extjs/useful examples/my learning app 1.0.1/resources/images/app
+./extjs/useful examples/my learning app 1.0.1/resources/images/app/logo.png
+./extjs/useful examples/my learning app 1.0.1/resources/Readme.md
+./extjs/useful examples/my learning app 1.0.1/sass
+./extjs/useful examples/my learning app 1.0.1/sass/config.rb
+./extjs/useful examples/my learning app 1.0.1/sass/etc
+./extjs/useful examples/my learning app 1.0.1/sass/etc/all.scss
+./extjs/useful examples/my learning app 1.0.1/sass/example
+./extjs/useful examples/my learning app 1.0.1/sass/example/bootstrap.css
+./extjs/useful examples/my learning app 1.0.1/sass/example/custom.js
+./extjs/useful examples/my learning app 1.0.1/sass/example/render.js
+./extjs/useful examples/my learning app 1.0.1/sass/example/theme.html
+./extjs/useful examples/my learning app 1.0.1/sass/Readme.md
+./extjs/useful examples/my learning app 1.0.1/sass/src
+./extjs/useful examples/my learning app 1.0.1/sass/var
+./extjs/useful examples/my learning app 1.0.1/sass/var/gitkeep.txt
+./extjs/useful examples/my learning app 1.0.1/users.json
+./extjs/useful examples/random notes.txt
+./extjs/useful examples/sass it up.txt
+./extjs/useful examples/scout-app
+./extjs/useful examples/scout-app/Main.js
+./extjs/useful examples/scout-app/MainGrid.js
+./extjs/useful examples/scout-app/MainTabpanel.js
+./extjs/useful examples/scout-app/SearchbarButtonsContainer.js
+./extjs/useful examples/scout-app/SearchbarPanel.js
+./extjs/useful examples/splash screen example.js
+./extjs/useful examples/useful.js
+./extjs/useful examples/general rule when reading these files.txt
+./extjs/useful examples/questions.txt
+./extjs/useful examples/sofar.js
+./facebookapis
+./facebookapis/example.php
+./facebookapis/installing facebook php sdk.txt
+./files.txt
+./git
+./git/@example of git commands for exref.txt
+./git/@useful.txt
+./git/adding files to be tracked.txt
+./git/architecture.txt
+./git/automation scripts
+./git/automation scripts/commit-and-push.bat
+./git/automation scripts/commit.bat
+./git/automation scripts/push.bat
+./git/automation scripts/shortcuts
+./git/automation scripts/shortcuts/c.lnk
+./git/automation scripts/shortcuts/cp.lnk
+./git/automation scripts/shortcuts/p.lnk
+./git/automation scripts/important note.txt
+./git/branch.txt
+./git/checkout.txt
+./git/clone a repository.txt
+./git/clone a specific commit.txt
+./git/clone repo and its submodules.txt
+./git/clone specific branch.txt
+./git/commit.txt
+./git/create github pages.txt
+./git/delete git from a project.txt
+./git/detached head.txt
+./git/diff.txt
+./git/discard changes in working directory.txt
+./git/don't ask for user pass with https.txt
+./git/edit global config.txt
+./git/error bad index, index file corrupt.txt
+./git/fetch.txt
+./git/generating ssh keys and adding to account.txt
+./git/get last commit message.txt
+./git/git push requires username and password everytime.txt
+./git/how git alters line endings in files.png
+./git/ignore files.txt
+./git/line endings.txt
+./git/log.txt
+./git/merge.txt
+./git/official examples
+./git/official examples/clone a specific branch.txt
+./git/official examples/create a new repository on the command line.txt
+./git/official examples/push an existing repository from the command line.txt
+./git/pull.txt
+./git/push.txt
+./git/remote.txt
+./git/remove files that you added.txt
+./git/repo naming convention.txt
+./git/reset.txt
+./git/revert.txt
+./git/saving changes for later.txt
+./git/set global config user name and email.txt
+./git/ssh-keygen procedure.txt
+./git/stash.txt
+./git/steps of creating a repository.txt
+./git/submodule remove.txt
+./git/submodule.txt
+./git/switch to a specific commit temporarily and switch back.txt
+./git/sync local repository with remote.txt
+./git/syntax highlighting in github markdown code.txt
+./git/undo checkout.txt
+./git/undo git reset.txt
+./git/undo last commit.txt
+./git/undo pushed commit.txt
+./git/unstage files (undo git add).txt
+./git/use manual pages.txt
+./git/notes.txt
+./googleapis
+./googleapis/basic.php
+./googleapis/credentials.txt
+./googleapis/geocoding.txt
+./googleapis/how it works
+./googleapis/how it works/exchange code for tokens.txt
+./googleapis/how it works/get a code for exchange.txt
+./googleapis/how it works/note.txt
+./googleapis/installing php client library.txt
+./googleapis/node example.js
+./graphic design
+./graphic design/how to convert sketch files to a layered photoshop file.txt
+./graphic design/mood-ring-color-meanings.jpg
+./graphic design/what is a sketch file.txt
+./hardware
+./hardware/how to detect intel hd graphics model.txt
+./hardware/how to determine if hard drive is brand new.txt
+./hardware/meaning of text written on laptop rams.jpg
+./hardware/meaning of text written on laptop rams.txt
+./hardware/what ti means at the end of nvidia graphics cards.txt
+./hardware/why my intel cpu graphics didn't work with its vga output on asrcok-xtreme6.txt
+./hardware/you must initialize a disk before logical disk manager can access it.txt
+./html
+./html/#.htm
+./html/anchor.txt
+./html/audio.htm
+./html/button.txt
+./html/combobox.htm
+./html/data attribute.htm
+./html/how to force a favicon refresh.txt
+./html/link.txt
+./html/meta tags extra.htm
+./html/meta.txt
+./html/responsive images.htm
+./html/script.txt
+./html/special characters.txt
+./html/template.htm
+./html/zero-width non-joiner.txt
+./http
+./http/cookies.txt
+./http/example.txt
+./http/google hashtag vs query string.txt
+./http/http network protocol stack.txt
+./http/media type.txt
+./http/messages.txt
+./http/raw messages and end-of-line handling.txt
+./http/resource.txt
+./http/transactions.txt
+./http/URI, URN and URL.txt
+./http/what browser does in the background.txt
+./illustrator
+./illustrator/AI23Settings_5-11-2019_5 10 PM
+./illustrator/change key object when aligning.txt
+./illustrator/curve only one corner of a rectangle.txt
+./illustrator/don't scale strokes.txt
+./illustrator/export for screens format types.txt
+./illustrator/farsi type.txt
+./illustrator/misc.txt
+./illustrator/remove one part of a stroke on a rectangle.txt
+./illustrator/shortcuts.txt
+./illustrator/update across multiple files.txt
+./illustrator/warning - document raster effect resolution is 72 ppi or less.txt
+./illustrator/warning - only fonts with appropriate permission bits will be embedded.txt
+./illustrator/warning - this is an adobe illustrator file that was save without pdf content.txt
+./index.js
+./js
+./js/#.js
+./js/alert
+./js/alert/alertifyjs.com
+./js/alert/alertifyjs.com/#.js
+./js/alert/alertifyjs.org
+./js/alert/alertifyjs.org/examples.js
+./js/alert/alertifyjs.org/includeds.txt
+./js/alert/alertifyjs.org/note.txt
+./js/alert/alertifyjs.org/useful.js
+./js/alert/bootbox.js
+./js/alert/bootbox.js/examples.js
+./js/alert/bootbox.js/includes.txt
+./js/alert/fabien-d alertify.js
+./js/alert/fabien-d alertify.js/#.js
+./js/alert/fabien-d alertify.js/change logs colors.txt
+./js/alert/fabien-d alertify.js/change logs font.txt
+./js/alert/fabien-d alertify.js/change logs position.txt
+./js/alert/fabien-d alertify.js/examples.js
+./js/alert/fabien-d alertify.js/includes.txt
+./js/alert/sweetalert
+./js/alert/sweetalert/includes.txt
+./js/alert/sweetalert/official examples.js
+./js/animation
+./js/animation/anijs
+./js/animation/anijs/#.js
+./js/animation/animate.css
+./js/animation/animate.css/examples.js
+./js/animation/animate.css/includes.txt
+./js/animation/animo.js
+./js/animation/animo.js/examples.js
+./js/animation/animo.js/includes.txt
+./js/animation/move.js
+./js/animation/move.js/examples.js
+./js/animation/move.js/includes..txt
+./js/animation/spin.js
+./js/animation/spin.js/examples.js
+./js/axios
+./js/axios/#.js
+./js/axios/basic.js
+./js/babel
+./js/babel/babel command not found when installing babel-cli locally.txt
+./js/babel/babel.config.js
+./js/babel/cli.txt
+./js/babel/example of my own usage.txt
+./js/babel/grunt-babel.js
+./js/babel/ignoring files.txt
+./js/babel/install.txt
+./js/babel/note about babel.js
+./js/backbone
+./js/backbone/includes.txt
+./js/bower
+./js/bower/base.txt
+./js/bower/cache.txt
+./js/bower/permission denied on linux.txt
+./js/bower/register package.txt
+./js/browserify
+./js/browserify/cli
+./js/browserify/cli/access a module from console.txt
+./js/browserify/cli/basic usage.txt
+./js/browserify/cli/install.txt
+./js/browserify/cli/options.txt
+./js/browserify/cli/passing arguments to transforms and plugins.txt
+./js/browserify/cli/watchify.txt
+./js/browserify/commonjs.js
+./js/browserify/grunt-browserify.js
+./js/chart.js
+./js/chart.js/basic.js
+./js/chart.js/examples.js
+./js/chart.js/includes.txt
+./js/chartist
+./js/chartist/# - Copy.js
+./js/chartist/basic.js
+./js/chartist/include.txt
+./js/closure
+./js/closure/--help.txt
+./js/closure/basic.txt
+./js/closure/export vs extern.txt
+./js/closure/export.js
+./js/closure/extern.js
+./js/d3.js
+./js/d3.js/ascending.js
+./js/d3.js/axis.js
+./js/d3.js/csv.js
+./js/d3.js/descending.js
+./js/d3.js/format.js
+./js/d3.js/scale.js
+./js/d3.js/selection.js
+./js/daterangepicker
+./js/daterangepicker/includes.txt
+./js/daterangepicker/usage.js
+./js/dhtmlx
+./js/dhtmlx/tree.js
+./js/grunt
+./js/grunt/@gruntfile example of browserify.js
+./js/grunt/@gruntfile example.js
+./js/grunt/#.js
+./js/grunt/basics.js
+./js/grunt/creating tasks.js
+./js/grunt/globbing patterns.js
+./js/grunt/grunt-contrib-concat.js
+./js/grunt/grunt-contrib-jshint.js
+./js/grunt/grunt-contrib-requirejs.js
+./js/grunt/grunt-contrib-sass.js
+./js/grunt/grunt-contrib-watch.js
+./js/grunt/grunt-jslint.js
+./js/grunt/grunt-shell.js
+./js/grunt/gruntfile structure.js
+./js/grunt/install.txt
+./js/grunt/pass cli arguments into grunt.js
+./js/grunt/run a grunt task inside a custom task.js
+./js/grunt/set a value into already loaded config.js
+./js/grunt/gruntfile archive.js
+./js/gulp
+./js/gulp/#.js
+./js/gulp/async completion (signaling when a task is finished).js
+./js/gulp/basic.js
+./js/gulp/cli flags.txt
+./js/gulp/globbing patterns.js
+./js/gulp/gulp-concat.js
+./js/gulp/gulp-livereload.js
+./js/gulp/gulp-run-command.js
+./js/gulp/gulp-sass.js
+./js/gulp/gulp-shell.js
+./js/gulp/gulp.task.js
+./js/gulp/gulpfile (ready-livereload-only).js
+./js/gulp/gulpfile.js
+./js/gulp/install.txt
+./js/gulp/watch.js
+./js/handlebars
+./js/handlebars/book example.hbs
+./js/handlebars/cli
+./js/handlebars/cli/basic.txt
+./js/handlebars/cli/example usage for a project.txt
+./js/handlebars/cli/optimizing with known helpers flag.txt
+./js/handlebars/cli/precompile partials.txt
+./js/handlebars/cli/using glob in input.txt
+./js/handlebars/client
+./js/handlebars/client/another basic.htm
+./js/handlebars/client/basic.js
+./js/handlebars/client/get precompiled template and fallback on using ajax if precompiled template is not available.js
+./js/handlebars/client/template source in script tag.txt
+./js/handlebars/comment.hbs
+./js/handlebars/each.hbs
+./js/handlebars/getting started.hbs
+./js/handlebars/html escaping.hbs
+./js/handlebars/if else unless.hbs
+./js/handlebars/partial.hbs
+./js/handlebars/server
+./js/handlebars/server/install.txt
+./js/handlebars/server/server.js
+./js/handlebars/with.hbs
+./js/highcharts
+./js/highcharts/stock.js
+./js/indent.js
+./js/indent.js/usage.js
+./js/jalaali-js
+./js/jalaali-js/basic.js
+./js/jalaali-js/include.txt
+./js/jasmine
+./js/jasmine/before and after each.js
+./js/jasmine/example suit.js
+./js/jasmine/include.txt
+./js/jasmine/matchers reference.js
+./js/jasmine/PlayerSpec.js
+./js/jasmine/reserved words in jasmine.js
+./js/jQuery
+./js/jQuery/#.js
+./js/jQuery/fn.js
+./js/jQuery/install.txt
+./js/jQuery/official documentation
+./js/jQuery/official documentation/basic.js
+./js/jQuery/official documentation/cats.txt
+./js/jQuery/official documentation/jQuery().js
+./js/jQuery/official documentation/types.js
+./js/jQuery/useful examples
+./js/jQuery/useful examples/ajax
+./js/jQuery/useful examples/ajax/#.js
+./js/jQuery/useful examples/ajax/ajaxSetup.js
+./js/jQuery/useful examples/ajax/base.js
+./js/jQuery/useful examples/ajax/beforeSend.js
+./js/jQuery/useful examples/ajax/contentType.js
+./js/jQuery/useful examples/ajax/data.js
+./js/jQuery/useful examples/ajax/dataType.js
+./js/jQuery/useful examples/ajax/headers.js
+./js/jQuery/useful examples/ajax/jquery ajax adds something to the url.js
+./js/jQuery/useful examples/ajax/method.js
+./js/jQuery/useful examples/ajax/multipart form-data.js
+./js/jQuery/useful examples/ajax/send data in body.js
+./js/jQuery/useful examples/ajax/statusCode.js
+./js/jQuery/useful examples/ajax/url.js
+./js/jQuery/useful examples/append and prepend.js
+./js/jQuery/useful examples/attr(data) vs data().js
+./js/jQuery/useful examples/attr(value) vs val().js
+./js/jQuery/useful examples/blur vs focusout.js
+./js/jQuery/useful examples/check and uncheck checkboxes.js
+./js/jQuery/useful examples/check the state of an element.js
+./js/jQuery/useful examples/check to see if a value exists in an array.js
+./js/jQuery/useful examples/cross domain ajax.js
+./js/jQuery/useful examples/Deferred.js
+./js/jQuery/useful examples/detect if an element has no children and is empty.js
+./js/jQuery/useful examples/detect if click was inside or outside of an element.js
+./js/jQuery/useful examples/detect if object is a jquery object.js
+./js/jQuery/useful examples/document.ready.js
+./js/jQuery/useful examples/event
+./js/jQuery/useful examples/event/#.js
+./js/jQuery/useful examples/event/base.js
+./js/jQuery/useful examples/event/delegated events.js
+./js/jQuery/useful examples/event/detect mouse direction.js
+./js/jQuery/useful examples/event/detecting which key was pressed.js
+./js/jQuery/useful examples/event/event namespace.js
+./js/jQuery/useful examples/event/get pointer position.js
+./js/jQuery/useful examples/event/input events.js
+./js/jQuery/useful examples/event/list of event names.js
+./js/jQuery/useful examples/event/multiple events for a single element.js
+./js/jQuery/useful examples/event/multiple handlers.js
+./js/jQuery/useful examples/event/passing data to the handler.js
+./js/jQuery/useful examples/event/removing event handlers.js
+./js/jQuery/useful examples/event/see all the atached handlers.js
+./js/jQuery/useful examples/event/triggering an event programmatically.js
+./js/jQuery/useful examples/find element nth position within parent.js
+./js/jQuery/useful examples/find vs filter.js
+./js/jQuery/useful examples/form.serialize().js
+./js/jQuery/useful examples/form.serializeArray().js
+./js/jQuery/useful examples/get dropdown selected item.js
+./js/jQuery/useful examples/get native dom elements with jquery.js
+./js/jQuery/useful examples/get selected element tag name.js
+./js/jQuery/useful examples/get the next sibling element.js
+./js/jQuery/useful examples/get which radio is checked.js
+./js/jQuery/useful examples/ie9 cross-domain ajax.js
+./js/jQuery/useful examples/insert element after another element.js
+./js/jQuery/useful examples/insert text and line-breaks into textarea.js
+./js/jQuery/useful examples/jquery-mousewheel
+./js/jQuery/useful examples/jquery-mousewheel/usage.js
+./js/jQuery/useful examples/jQuery-UI
+./js/jQuery/useful examples/jQuery-UI/autocomplete.js
+./js/jQuery/useful examples/jQuery-UI/effects.js
+./js/jQuery/useful examples/jQuery-UI/right to left jquey-ui tabs.js
+./js/jQuery/useful examples/jQuery-UI/sortable.js
+./js/jQuery/useful examples/locally scoped jquery.js
+./js/jQuery/useful examples/looping animation.js
+./js/jQuery/useful examples/misc.js
+./js/jQuery/useful examples/parse html.js
+./js/jQuery/useful examples/remove an element.js
+./js/jQuery/useful examples/remove event listeners when removing elements.js
+./js/jQuery/useful examples/remove what's inside an element.js
+./js/jQuery/useful examples/replace an element with a another element.js
+./js/jQuery/useful examples/select all except first child.js
+./js/jQuery/useful examples/select something inside an already selected element.js
+./js/jQuery/useful examples/selecting comments.js
+./js/jQuery/useful examples/selecting elements.js
+./js/jQuery/useful examples/templating with jquery.js
+./js/jQuery/useful examples/this vs event targets in event callbacks.js
+./js/jQuery/useful examples/val() vs text() for textarea.js
+./js/jQuery/useful examples/webStorage event.js
+./js/jshint
+./js/jsTree
+./js/jsTree/change the tree structure.js
+./js/jsTree/close and open all.js
+./js/jsTree/create a jstree instance.js
+./js/jsTree/data config.js
+./js/jsTree/destroy the tree.js
+./js/jsTree/disable and enable node.js
+./js/jsTree/events.js
+./js/jsTree/get node.js
+./js/jsTree/get selected nodes.js
+./js/jsTree/icon classes.js
+./js/jsTree/icon property.js
+./js/jsTree/includes.txt
+./js/jsTree/json reference alternative.json
+./js/jsTree/json reference.json
+./js/jsTree/jstree-grid
+./js/jsTree/jstree-grid/events.js
+./js/jsTree/jstree-grid/examples.js
+./js/jsTree/jstree-grid/includes.txt
+./js/jsTree/jstree-grid/useful.js
+./js/jsTree/modify ajax response before tree creation.js
+./js/jsTree/open and close node.js
+./js/jsTree/plugins.js
+./js/jsTree/select and deselect all.js
+./js/jsTree/select and deselect.js
+./js/jsTree/start.htm
+./js/jsTree/tree with html elements.js
+./js/jsTree/tree with inline json data.js
+./js/jsTree/tree with json data from ajax.js
+./js/jsTree/type config.js
+./js/jsTree/useful.js
+./js/konva
+./js/konva/#.js
+./js/konva/animation.js
+./js/konva/basic shapes.js
+./js/konva/drag and drop.js
+./js/konva/events.js
+./js/konva/how it works.js
+./js/konva/include.txt
+./js/konva/selectors.js
+./js/konva/styles.js
+./js/LANGUAGE
+./js/LANGUAGE/#.js
+./js/LANGUAGE/ajax.js
+./js/LANGUAGE/build-system
+./js/LANGUAGE/build-system/custom-amd-loader-by-me.js
+./js/LANGUAGE/build-system/note about stack repos.txt
+./js/LANGUAGE/crockgoodparts
+./js/LANGUAGE/crockgoodparts/comments.js
+./js/LANGUAGE/crockgoodparts/expressions.js
+./js/LANGUAGE/crockgoodparts/literals.js
+./js/LANGUAGE/crockgoodparts/names.js
+./js/LANGUAGE/crockgoodparts/numbers.js
+./js/LANGUAGE/crockgoodparts/statements.js
+./js/LANGUAGE/crockgoodparts/strings.js
+./js/LANGUAGE/crockgoodparts/whitespace.js
+./js/LANGUAGE/crockonjs
+./js/LANGUAGE/crockonjs/arrays.js
+./js/LANGUAGE/crockonjs/closure.js
+./js/LANGUAGE/crockonjs/comments.js
+./js/LANGUAGE/crockonjs/date.js
+./js/LANGUAGE/crockonjs/functions.js
+./js/LANGUAGE/crockonjs/identifiers.js
+./js/LANGUAGE/crockonjs/inheritance.js
+./js/LANGUAGE/crockonjs/loosly typed.js
+./js/LANGUAGE/crockonjs/null and undefined.js
+./js/LANGUAGE/crockonjs/number.js
+./js/LANGUAGE/crockonjs/objects.js
+./js/LANGUAGE/crockonjs/operators.js
+./js/LANGUAGE/crockonjs/regexp.js
+./js/LANGUAGE/crockonjs/statements.js
+./js/LANGUAGE/crockonjs/string.js
+./js/LANGUAGE/crockonjs/truthy and falsey.js
+./js/LANGUAGE/crockonjs/typeof.js
+./js/LANGUAGE/fn.js
+./js/LANGUAGE/inheritance.JPG
+./js/LANGUAGE/interview questions
+./js/LANGUAGE/interview questions/#.js
+./js/LANGUAGE/interview questions/25
+./js/LANGUAGE/interview questions/25/1.js
+./js/LANGUAGE/interview questions/25/10.js
+./js/LANGUAGE/interview questions/25/11.js
+./js/LANGUAGE/interview questions/25/12.js
+./js/LANGUAGE/interview questions/25/13.js
+./js/LANGUAGE/interview questions/25/14.js
+./js/LANGUAGE/interview questions/25/15.js
+./js/LANGUAGE/interview questions/25/16.js
+./js/LANGUAGE/interview questions/25/17.js
+./js/LANGUAGE/interview questions/25/18.js
+./js/LANGUAGE/interview questions/25/19.js
+./js/LANGUAGE/interview questions/25/2.js
+./js/LANGUAGE/interview questions/25/20.js
+./js/LANGUAGE/interview questions/25/21.js
+./js/LANGUAGE/interview questions/25/22.js
+./js/LANGUAGE/interview questions/25/23.js
+./js/LANGUAGE/interview questions/25/24.js
+./js/LANGUAGE/interview questions/25/25.js
+./js/LANGUAGE/interview questions/25/3.js
+./js/LANGUAGE/interview questions/25/4.js
+./js/LANGUAGE/interview questions/25/5.js
+./js/LANGUAGE/interview questions/25/6.js
+./js/LANGUAGE/interview questions/25/7.js
+./js/LANGUAGE/interview questions/25/8.js
+./js/LANGUAGE/interview questions/25/9.js
+./js/LANGUAGE/interview questions/85
+./js/LANGUAGE/interview questions/85/#.js
+./js/LANGUAGE/patterns
+./js/LANGUAGE/patterns/factory.js
+./js/LANGUAGE/patterns/namespace.js
+./js/LANGUAGE/patterns/observer.js
+./js/LANGUAGE/patterns/proxy.js
+./js/LANGUAGE/patterns/singleton.js
+./js/LANGUAGE/performance
+./js/LANGUAGE/performance/#.js
+./js/LANGUAGE/performance/delete keyword is bad.js
+./js/LANGUAGE/performance/dot vs bracket.js
+./js/LANGUAGE/performance/garbage collection.js
+./js/LANGUAGE/performance/writing efficient javascript.js
+./js/LANGUAGE/prototype chain.png
+./js/LANGUAGE/regexp guide.htm
+./js/LANGUAGE/regexp reference.htm
+./js/LANGUAGE/syntax highlighting.txt
+./js/LANGUAGE/useful examples
+./js/LANGUAGE/useful examples/+ operator adds and concatenates.js
+./js/LANGUAGE/useful examples/access an individual character in a string.js
+./js/LANGUAGE/useful examples/access obj prop with square bracket.js
+./js/LANGUAGE/useful examples/add properties to an object in a loop.js
+./js/LANGUAGE/useful examples/architecture of javascript.js
+./js/LANGUAGE/useful examples/are strings mutable or immutable.js
+./js/LANGUAGE/useful examples/arguments array.js
+./js/LANGUAGE/useful examples/array methods.js
+./js/LANGUAGE/useful examples/array.map().js
+./js/LANGUAGE/useful examples/Array.prototype.forEach().js
+./js/LANGUAGE/useful examples/Array.prototype.sort().js
+./js/LANGUAGE/useful examples/automatic type coercion.js
+./js/LANGUAGE/useful examples/backslash in string.js
+./js/LANGUAGE/useful examples/bind.js
+./js/LANGUAGE/useful examples/bitwise operators.js
+./js/LANGUAGE/useful examples/call() and apply() differences.js
+./js/LANGUAGE/useful examples/call() method.js
+./js/LANGUAGE/useful examples/change floating-point number to a specific decimal place.js
+./js/LANGUAGE/useful examples/check for null.js
+./js/LANGUAGE/useful examples/check for object or array.js
+./js/LANGUAGE/useful examples/check if a character exists in a string.js
+./js/LANGUAGE/useful examples/check if a word exists in a string.js
+./js/LANGUAGE/useful examples/check if number is negative.js
+./js/LANGUAGE/useful examples/check if number is whole.js
+./js/LANGUAGE/useful examples/check if object property exists.js
+./js/LANGUAGE/useful examples/check whether string contains a line break.js
+./js/LANGUAGE/useful examples/checking against NaN.js
+./js/LANGUAGE/useful examples/closure.js
+./js/LANGUAGE/useful examples/comma.js
+./js/LANGUAGE/useful examples/console.js
+./js/LANGUAGE/useful examples/constructor function vs factory function.js
+./js/LANGUAGE/useful examples/constructor property.js
+./js/LANGUAGE/useful examples/convert a character to its char-code and vise versa.js
+./js/LANGUAGE/useful examples/convert number to hex string and reverse.js
+./js/LANGUAGE/useful examples/convert number to string.js
+./js/LANGUAGE/useful examples/convert number to unsigned 32 bit integer.js
+./js/LANGUAGE/useful examples/convert string to number.js
+./js/LANGUAGE/useful examples/converting an array to a function arguments list.js
+./js/LANGUAGE/useful examples/creating array.js
+./js/LANGUAGE/useful examples/custom setInterval using recursive setTimeout.js
+./js/LANGUAGE/useful examples/date.js
+./js/LANGUAGE/useful examples/default boolean.js
+./js/LANGUAGE/useful examples/delete item of array.js
+./js/LANGUAGE/useful examples/delete property from object.js
+./js/LANGUAGE/useful examples/detect string which contain only spaces.js
+./js/LANGUAGE/useful examples/detect syntax errors when executing eval.js
+./js/LANGUAGE/useful examples/determine if a function is called with new.js
+./js/LANGUAGE/useful examples/determine if something is an object.js
+./js/LANGUAGE/useful examples/encode data before sending it to the server with ajax.js
+./js/LANGUAGE/useful examples/encode urls.js
+./js/LANGUAGE/useful examples/es5 strict mode.js
+./js/LANGUAGE/useful examples/es6
+./js/LANGUAGE/useful examples/es6/#.js
+./js/LANGUAGE/useful examples/es6/arrow functions.js
+./js/LANGUAGE/useful examples/es6/async await.js
+./js/LANGUAGE/useful examples/es6/classes.js
+./js/LANGUAGE/useful examples/es6/default parameters.js
+./js/LANGUAGE/useful examples/es6/destructuring assignment.js
+./js/LANGUAGE/useful examples/es6/enhanced object literals.js
+./js/LANGUAGE/useful examples/es6/es6.js
+./js/LANGUAGE/useful examples/es6/for of.js
+./js/LANGUAGE/useful examples/es6/generators.js
+./js/LANGUAGE/useful examples/es6/import export.js
+./js/LANGUAGE/useful examples/es6/let const.js
+./js/LANGUAGE/useful examples/es6/Map.js
+./js/LANGUAGE/useful examples/es6/multi-line strings.js
+./js/LANGUAGE/useful examples/es6/Promise.js
+./js/LANGUAGE/useful examples/es6/rest parameter.js
+./js/LANGUAGE/useful examples/es6/spread operator.js
+./js/LANGUAGE/useful examples/es6/symbols.js
+./js/LANGUAGE/useful examples/es6/template literals.js
+./js/LANGUAGE/useful examples/execute function declarations immediately.js
+./js/LANGUAGE/useful examples/first character of a string.js
+./js/LANGUAGE/useful examples/for in goes through inherited properties as well.js
+./js/LANGUAGE/useful examples/function context.js
+./js/LANGUAGE/useful examples/function expression vs function declaration.js
+./js/LANGUAGE/useful examples/function inside function vs class (heap comparison).js
+./js/LANGUAGE/useful examples/function inside function vs class.js
+./js/LANGUAGE/useful examples/generate a random number.js
+./js/LANGUAGE/useful examples/generate guid.js
+./js/LANGUAGE/useful examples/generate random colors.js
+./js/LANGUAGE/useful examples/generate unique integers.js
+./js/LANGUAGE/useful examples/get decimal fraction of a floating point number.js
+./js/LANGUAGE/useful examples/get substring from a string.js
+./js/LANGUAGE/useful examples/get the function that called this function.js
+./js/LANGUAGE/useful examples/get the substring before a character in a string.js
+./js/LANGUAGE/useful examples/getters and setters.js
+./js/LANGUAGE/useful examples/hoisting.js
+./js/LANGUAGE/useful examples/iea functions and selecting elements on document ready.js
+./js/LANGUAGE/useful examples/immediate object initialization.js
+./js/LANGUAGE/useful examples/in operator.js
+./js/LANGUAGE/useful examples/inherit from multiple objects (extend).js
+./js/LANGUAGE/useful examples/inheritance.js
+./js/LANGUAGE/useful examples/inspired from lightbox.js
+./js/LANGUAGE/useful examples/instanceof vs isPrototypeOf.js
+./js/LANGUAGE/useful examples/iterating through object properties.js
+./js/LANGUAGE/useful examples/JSON.stringify().js
+./js/LANGUAGE/useful examples/last character of a string.js
+./js/LANGUAGE/useful examples/last item of array.js
+./js/LANGUAGE/useful examples/length of object.js
+./js/LANGUAGE/useful examples/logical operators.js
+./js/LANGUAGE/useful examples/loop through an object and push props that are obj to an array.js
+./js/LANGUAGE/useful examples/Math.js
+./js/LANGUAGE/useful examples/Math.random().js
+./js/LANGUAGE/useful examples/multiline string concatenation.js
+./js/LANGUAGE/useful examples/nan and infinity.js
+./js/LANGUAGE/useful examples/native method.js
+./js/LANGUAGE/useful examples/numbers.js
+./js/LANGUAGE/useful examples/object creation.js
+./js/LANGUAGE/useful examples/object key character limit.js
+./js/LANGUAGE/useful examples/Object.assign().js
+./js/LANGUAGE/useful examples/Object.create().js
+./js/LANGUAGE/useful examples/Object.defineProperties().js
+./js/LANGUAGE/useful examples/Object.defineProperty().js
+./js/LANGUAGE/useful examples/Object.getOwnPropertyDescriptor().js
+./js/LANGUAGE/useful examples/operator precedence.js
+./js/LANGUAGE/useful examples/passed by refference.js
+./js/LANGUAGE/useful examples/prefix vs postfix inc-dec-rement operator.js
+./js/LANGUAGE/useful examples/prepend to array.js
+./js/LANGUAGE/useful examples/primitive value vs reference value.js
+./js/LANGUAGE/useful examples/primitive values.js
+./js/LANGUAGE/useful examples/prototype vs __proto__.js
+./js/LANGUAGE/useful examples/reassigning function arguments in the body of function and its hazards.js
+./js/LANGUAGE/useful examples/regex.js
+./js/LANGUAGE/useful examples/remove a substring from a string.js
+./js/LANGUAGE/useful examples/remove characters from the begining of a string.js
+./js/LANGUAGE/useful examples/remove last character of a string.js
+./js/LANGUAGE/useful examples/repeat string multiple times.js
+./js/LANGUAGE/useful examples/replace all occurrences of a character in a string.js
+./js/LANGUAGE/useful examples/results of omitting var keyword.js
+./js/LANGUAGE/useful examples/reverse a string.js
+./js/LANGUAGE/useful examples/scope chain.js
+./js/LANGUAGE/useful examples/search in array for a substring match.js
+./js/LANGUAGE/useful examples/search in array.js
+./js/LANGUAGE/useful examples/self-executing anonymous function.js
+./js/LANGUAGE/useful examples/semicolon insertion.js
+./js/LANGUAGE/useful examples/set a breakpoint in code.js
+./js/LANGUAGE/useful examples/setTimeout.js
+./js/LANGUAGE/useful examples/so you think you know javascript.js
+./js/LANGUAGE/useful examples/sorting by object property.js
+./js/LANGUAGE/useful examples/splice.js
+./js/LANGUAGE/useful examples/split a camel-case string.js
+./js/LANGUAGE/useful examples/stack, event loop, task queue and webapis.js
+./js/LANGUAGE/useful examples/switch fallthrough.js
+./js/LANGUAGE/useful examples/ternary operator.js
+./js/LANGUAGE/useful examples/this variable context.js
+./js/LANGUAGE/useful examples/this variable in constructor and prototype.js
+./js/LANGUAGE/useful examples/throwing errors.js
+./js/LANGUAGE/useful examples/undefined value.js
+./js/LANGUAGE/useful examples/use string stored in variable for object key.js
+./js/LANGUAGE/useful examples/useful tip for selecting elements in chrome dev tools.js
+./js/LANGUAGE/useful examples/using dot after a literal value.js
+./js/LANGUAGE/useful examples/var keyword omission in multiple assignment constructs.js
+./js/LANGUAGE/useful examples/variable scope.js
+./js/LANGUAGE/useful examples/web-apis
+./js/LANGUAGE/useful examples/web-apis/#.js
+./js/LANGUAGE/useful examples/web-apis/cross-browser mousewheel.js
+./js/LANGUAGE/useful examples/web-apis/detect url change.js
+./js/LANGUAGE/useful examples/web-apis/detect when user refreshing or leaving.js
+./js/LANGUAGE/useful examples/web-apis/fetch.js
+./js/LANGUAGE/useful examples/web-apis/history.js
+./js/LANGUAGE/useful examples/web-apis/ie console.log() issue.js
+./js/LANGUAGE/useful examples/web-apis/indexedDB.js
+./js/LANGUAGE/useful examples/web-apis/localStorage.js
+./js/LANGUAGE/useful examples/web-apis/location.js
+./js/LANGUAGE/useful examples/web-apis/media
+./js/LANGUAGE/useful examples/web-apis/media/basic.js
+./js/LANGUAGE/useful examples/web-apis/media/deprecated.js
+./js/LANGUAGE/useful examples/web-apis/performance api.js
+./js/LANGUAGE/useful examples/web-apis/refresh the page.js
+./js/LANGUAGE/useful examples/web-apis/sessionStorage.js
+./js/LANGUAGE/useful examples/web-apis/typed arrays.js
+./js/LANGUAGE/useful examples/web-apis/URL.js
+./js/LANGUAGE/useful examples/web-apis/web workers.js
+./js/LANGUAGE/useful examples/web-apis/window width and height.js
+./js/moment.js
+./js/moment.js/basic.js
+./js/moment.js/include.txt
+./js/moment.js/moment timezone.js
+./js/nouislider
+./js/nouislider/basic.js
+./js/nouislider/include.txt
+./js/nprogress
+./js/nprogress/usage.js
+./js/p5
+./js/p5/#.js
+./js/p5/basic.js
+./js/p5/history.txt
+./js/p5/include.txt
+./js/p5/instance mode.js
+./js/pixi
+./js/pixi/#.js
+./js/pixi/about draging the stage.txt
+./js/pixi/about event handlers.txt
+./js/pixi/Application.js
+./js/pixi/basics.js
+./js/pixi/Container.js
+./js/pixi/destroy and cleanup.js
+./js/pixi/disable console banner.js
+./js/pixi/drag and drop.js
+./js/pixi/events.js
+./js/pixi/global and local position.js
+./js/pixi/Graphics.js
+./js/pixi/include.txt
+./js/pixi/install with npm.txt
+./js/pixi/line.js
+./js/pixi/load images into texture cache.js
+./js/pixi/ParticleContainer.js
+./js/pixi/pivot vs anchor.js
+./js/pixi/rectangle.js
+./js/pixi/renderer.js
+./js/pixi/smoothie
+./js/pixi/smoothie/basics.js
+./js/pixi/smoothie/include.txt
+./js/pixi/sprite-utilities
+./js/pixi/sprite-utilities/basics.js
+./js/pixi/sprite-utilities/include.txt
+./js/pixi/Sprite.js
+./js/pixi/spritesheet.js
+./js/pixi/spritesheet.js/install.txt
+./js/pixi/spritesheet.js/usage.txt
+./js/pixi/stage pan.js
+./js/pixi/stage zoom.js
+./js/pixi/text.js
+./js/pixi/TilingSprite.js
+./js/pixi/tink
+./js/pixi/tink/basics.js
+./js/pixi/tink/include.txt
+./js/pixi/misc.js
+./js/prism
+./js/prism/basic usage.htm
+./js/prism/includes.txt
+./js/prism/rerun prism after something changes in the page.js
+./js/qunit
+./js/qunit/basics.js
+./js/qunit/include.txt
+./js/request
+./js/request/basic.js
+./js/requirejs
+./js/requirejs/basics.js
+./js/requirejs/config.js
+./js/requirejs/define vs require.js
+./js/requirejs/define.js
+./js/requirejs/differences between require() and requrejs() functions.js
+./js/requirejs/multiple entry points.js
+./js/requirejs/note about including library code in the same file containing optimized (bundled) application code.txt
+./js/requirejs/note.txt
+./js/requirejs/optimizer
+./js/requirejs/optimizer/almond.txt
+./js/requirejs/optimizer/buildconfig reference.js
+./js/requirejs/optimizer/buildconfig.js
+./js/requirejs/optimizer/bundling and dynamic loading with optimizer.txt
+./js/requirejs/optimizer/run.txt
+./js/requirejs/optimizer/sourcemaps.js
+./js/requirejs/optimizer/use the optimizer in a node script.js
+./js/requirejs/referencing a module as a dependency multiple times.txt
+./js/requirejs/shim.js
+./js/rollup
+./js/rollup/basics.js
+./js/rollup/cli.txt
+./js/rollup/install.txt
+./js/rollup/rollup.config.js
+./js/select2
+./js/select2/basic.js
+./js/showdown
+./js/showdown/basic.js
+./js/socket.io
+./js/socket.io/basics.js
+./js/spectrum
+./js/spectrum/usage.js
+./js/superagent
+./js/superagent/basic.js
+./js/t3js
+./js/t3js/#.js
+./js/t3js/creating a module.js
+./js/t3js/include.txt
+./js/t3js/initialization and global configuration.js
+./js/techan.js
+./js/techan.js/basic.js
+./js/techan.js/build.txt
+./js/tradingview
+./js/tradingview/#.js
+./js/tradingview/basic.js
+./js/tradingview/custom chart profiles by me.js
+./js/tradingview/essential example.js
+./js/tradingview/includes.txt
+./js/tradingview/js api.js
+./js/tradingview/jsapi tutorial
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/package.json
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/public
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/public/index.html
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/public/put-charting-library-here
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src/App.css
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src/App.jsx
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src/components
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src/components/TVChartContainer
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src/components/TVChartContainer/api
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src/components/TVChartContainer/api/historyProvider.js
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src/components/TVChartContainer/api/index.js
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src/components/TVChartContainer/index.css
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src/components/TVChartContainer/index.jsx
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src/index.css
+./js/tradingview/jsapi tutorial/part1 (jsapi setup)/src/index.js
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/package.json
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/public
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/public/index.html
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/public/put-charting-library-here
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/App.css
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/App.jsx
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/components
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/components/TVChartContainer
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/components/TVChartContainer/api
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/components/TVChartContainer/api/historyProvider.js
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/components/TVChartContainer/api/index.js
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/components/TVChartContainer/api/stream.js
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/components/TVChartContainer/index.css
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/components/TVChartContainer/index.jsx
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/index.css
+./js/tradingview/jsapi tutorial/part2 (realtime chart updates)/src/index.js
+./js/tradingview/overrides.js
+./js/tradingview/resolution (time interval).js
+./js/tradingview/SymbolInfo.js
+./js/tradingview/widget constructor.js
+./js/tradingview/widget methods.js
+./js/tween.js
+./js/tween.js/basics.js
+./js/tween.js/include.txt
+./js/tweenLiteMax
+./js/tweenLiteMax/include.txt
+./js/tweenLiteMax/tweenLite.js
+./js/tweenLiteMax/tweenMax.js
+./js/two.js
+./js/two.js/basics.js
+./js/two.js/include.txt
+./js/typescript
+./js/typescript/#.ts
+./js/typescript/archive
+./js/typescript/archive/grunt-ts.js
+./js/typescript/archive/tsconfig reference.js
+./js/typescript/basic.txt
+./js/typescript/browserify with tsify (and watchify).txt
+./js/typescript/compiling commands from actual projs.txt
+./js/typescript/create config file.txt
+./js/typescript/example tsconfig from actual projects
+./js/typescript/example tsconfig from actual projects/tsconfig in proj root dir.json
+./js/typescript/example tsconfig from actual projects/tsconfig in sub dir.json
+./js/typescript/how to use globals.txt
+./js/typescript/include, exlcude and files in tsconfig.txt
+./js/typescript/install.txt
+./js/typescript/installing type definintions.txt
+./js/typescript/language
+./js/typescript/language/class.ts
+./js/typescript/language/declaration (d.ts) files.ts
+./js/typescript/language/declare.ts
+./js/typescript/language/interface.ts
+./js/typescript/language/module.ts
+./js/typescript/language/namespace.ts
+./js/typescript/language/singleton.ts
+./js/typescript/language/types.ts
+./js/typescript/note about module config.txt
+./js/typescript/tsconfig.txt
+./js/typescript/using tsconfig.json.txt
+./js/typescript/watch.txt
+./js/velocity
+./js/velocity/basic.js
+./js/velocity/detect if element is currently been animated.js
+./js/velocity/includes.txt
+./js/vis
+./js/vis/#.js
+./js/vis/basics.js
+./js/vis/configure.js
+./js/vis/DataSet.js
+./js/vis/edges.js
+./js/vis/graph2d
+./js/vis/graph2d/#.js
+./js/vis/groups.js
+./js/vis/include.txt
+./js/vis/interaction.js
+./js/vis/layout.js
+./js/vis/locales.js
+./js/vis/manipulation.js
+./js/vis/network global methods.js
+./js/vis/node shapes.js
+./js/vis/nodes.js
+./js/vis/official examples
+./js/vis/official examples/circular images.js
+./js/vis/official examples/custom groups.js
+./js/vis/official examples/groups.js
+./js/vis/official examples/icons.js
+./js/vis/options.js
+./js/vis/physics.js
+./js/webpack
+./js/webpack/cli.txt
+./js/webpack/failed attempt.js
+./js/webpack/grunt-webpack.js
+./js/webpack/install.txt
+./js/webpack/webpack.config reference.js
+./js/webpack/what does webpack mean by xxx hidden modules message after compilation.txt
+./js/webpack/what happens to css files in webpack.txt
+./laravel
+./laravel/artisan.txt
+./laravel/composer.txt
+./laravel/homestead.txt
+./laravel/laravel on shared-host.txt
+./laravel/laravel.txt
+./laravel/useful examples
+./laravel/useful examples/# - Copy.php
+./laravel/useful examples/add custom classes to laravel.txt
+./laravel/useful examples/basic workflow
+./laravel/useful examples/basic workflow/app__Http__Controllers__aboutController.php
+./laravel/useful examples/basic workflow/app__Http__Controllers__homeController.php
+./laravel/useful examples/basic workflow/app__Http__routes.php
+./laravel/useful examples/basic workflow/public__css__style.css
+./laravel/useful examples/basic workflow/resources__views__master.blade.php
+./laravel/useful examples/basic workflow/resources__views__pages__about.blade.php
+./laravel/useful examples/basic workflow/resources__views__pages__home.blade.php
+./laravel/useful examples/basic workflow/resources__views__welcome.blade.php
+./laravel/useful examples/blade control structures.php
+./laravel/useful examples/databases and migrations
+./laravel/useful examples/databases and migrations/app__Http__Controllers__SongsController.php
+./laravel/useful examples/databases and migrations/app__Http__routes.php
+./laravel/useful examples/databases and migrations/commands.txt
+./laravel/useful examples/databases and migrations/config__database.php
+./laravel/useful examples/databases and migrations/database__migrations__2015_11_07_043132_create_songs_table.php
+./laravel/useful examples/databases and migrations/public__css__style.css
+./laravel/useful examples/databases and migrations/resources__views__master.blade.php
+./laravel/useful examples/databases and migrations/resources__views__songs__list.blade.php
+./laravel/useful examples/databases and migrations/resources__views__songs__show.blade.php
+./laravel/useful examples/datetime in controller.php
+./laravel/useful examples/db facade.php
+./laravel/useful examples/eloquent
+./laravel/useful examples/eloquent.php
+./laravel/useful examples/eloquent/app__Http__Controllers__SongsController.php
+./laravel/useful examples/eloquent/app__Http__routes.php
+./laravel/useful examples/eloquent/app__Song.php
+./laravel/useful examples/eloquent/commands.txt
+./laravel/useful examples/eloquent/config__database.php
+./laravel/useful examples/eloquent/database__migrations__2015_11_07_043132_create_songs_table.php
+./laravel/useful examples/eloquent/public__css__style.css
+./laravel/useful examples/eloquent/resources__views__master.blade.php
+./laravel/useful examples/eloquent/resources__views__songs__list.blade.php
+./laravel/useful examples/eloquent/resources__views__songs__show.blade.php
+./laravel/useful examples/forms
+./laravel/useful examples/forms/app__Http__Controllers__SongsController.php
+./laravel/useful examples/forms/app__Http__routes.php
+./laravel/useful examples/forms/app__Song.php
+./laravel/useful examples/forms/commands.txt
+./laravel/useful examples/forms/config__app.php
+./laravel/useful examples/forms/config__database.php
+./laravel/useful examples/forms/database__migrations__2015_11_07_043132_create_songs_table.php
+./laravel/useful examples/forms/public__css__bootstrap.css
+./laravel/useful examples/forms/public__css__style.css
+./laravel/useful examples/forms/resources__views__master.blade.php
+./laravel/useful examples/forms/resources__views__songs__edit.blade.php
+./laravel/useful examples/forms/resources__views__songs__list.blade.php
+./laravel/useful examples/forms/resources__views__songs__show.blade.php
+./laravel/useful examples/forms/vendor__illuminate__html
+./laravel/useful examples/forms/vendor__illuminate__html/composer.json
+./laravel/useful examples/forms/vendor__illuminate__html/FormBuilder.php
+./laravel/useful examples/forms/vendor__illuminate__html/FormFacade.php
+./laravel/useful examples/forms/vendor__illuminate__html/helpers.php
+./laravel/useful examples/forms/vendor__illuminate__html/HtmlBuilder.php
+./laravel/useful examples/forms/vendor__illuminate__html/HtmlFacade.php
+./laravel/useful examples/forms/vendor__illuminate__html/HtmlServiceProvider.php
+./laravel/useful examples/links wildcard
+./laravel/useful examples/links wildcard/app__Http__Controllers__SongsController.php
+./laravel/useful examples/links wildcard/app__Http__routes.php
+./laravel/useful examples/links wildcard/public__css__style.css
+./laravel/useful examples/links wildcard/resources__views__master.blade.php
+./laravel/useful examples/links wildcard/resources__views__songs__list.blade.php
+./laravel/useful examples/links wildcard/resources__views__songs__show.blade.php
+./laravel/useful examples/one-to-many relationship
+./laravel/useful examples/one-to-many relationship/app____Comment.php
+./laravel/useful examples/one-to-many relationship/app____User.php
+./laravel/useful examples/one-to-many relationship/commands.txt
+./laravel/useful examples/one-to-many relationship/database____migrations____2014_10_12_000000_create_users_table.php
+./laravel/useful examples/one-to-many relationship/database____migrations____2015_11_19_052000_create_comments_table.php
+./laravel/useful examples/one-to-many relationship/database____seeds____CommentsTableSeeder.php
+./laravel/useful examples/one-to-many relationship/database____seeds____DatabaseSeeder.php
+./laravel/useful examples/one-to-many relationship/database____seeds____UsersTableSeeder.php
+./laravel/useful examples/passing data to view.php
+./laravel/useful examples/request.php
+./laravel/useful examples/routing.php
+./laravel/useful examples/schema builder.php
+./laravel/useful examples/seeding.php
+./laravel/useful examples/view function.php
+./laravel/useful examples/yield and section
+./laravel/useful examples/yield and section/layouts
+./laravel/useful examples/yield and section/layouts/content.blade.php
+./laravel/useful examples/yield and section/layouts/footer.blade.php
+./laravel/useful examples/yield and section/layouts/header.blade.php
+./laravel/useful examples/yield and section/master.blade.php
+./laravel/useful examples/yield and section/note.txt
+./laravel/useful examples/useful.php
+./laravel/fails.txt
+./linux
+./linux/access webserver running in virtual machine.txt
+./linux/bash
+./linux/bash/bash scripts general.txt
+./linux/bash/bash variables.txt
+./linux/bash/call a script from another script.txt
+./linux/bash/check if a directory exist.txt
+./linux/bash/check if a directory is empty.txt
+./linux/bash/check if a program exists from a bash script.txt
+./linux/bash/command substitution.txt
+./linux/bash/conditional.txt
+./linux/bash/get folder size.txt
+./linux/bash/read file line by line.txt
+./linux/change dos-style newlines to unix-style in a file.txt
+./linux/change user password.txt
+./linux/chmod.txt
+./linux/chown.txt
+./linux/connect to vps with putty.txt
+./linux/copy files and folders.txt
+./linux/create file.txt
+./linux/create folder.txt
+./linux/delete file and folder.txt
+./linux/delete only folders.txt
+./linux/download file.txt
+./linux/extract gz file.txt
+./linux/install git.txt
+./linux/install nodejs.txt
+./linux/ls.txt
+./linux/move files and folders.txt
+./linux/multiple commands in a single line.txt
+./linux/note about ubuntu install.txt
+./linux/open text file in terminal.txt
+./linux/rename file.txt
+./linux/running binary.txt
+./linux/see contents of a directory.txt
+./linux/share folder between host and guest.txt
+./linux/show processes.txt
+./linux/shutdown.txt
+./linux/unzip files.txt
+./linux/write output of a command to a file.txt
+./materialize
+./materialize/includes.txt
+./materialize/using some parts of materialize framework.scss
+./mongodb
+./mongodb/#.js
+./mongodb/basic.js
+./mongodb/connect to mongo client.js
+./mongodb/create collection.js
+./mongodb/create database.js
+./mongodb/create user.js
+./mongodb/delete.js
+./mongodb/find.js
+./mongodb/insert.js
+./mongodb/mongo shell vs nodejs driver.txt
+./mongodb/mongo.txt
+./mongodb/nodejs driver.js
+./mongodb/start server.txt
+./mongodb/update.js
+./mysql
+./mysql/#.sql
+./mysql/pcshop_db
+./mysql/pcshop_db/[generate_database].php
+./mysql/pcshop_db/db_p.sql
+./mysql/pcshop_db/table_chassiss
+./mysql/pcshop_db/table_chassiss/chassiss.sql
+./mysql/pcshop_db/table_chassiss/INSERT_Reference.sql
+./mysql/pcshop_db/table_chassiss/INSERT_Working.sql
+./mysql/pcshop_db/table_comments.sql
+./mysql/pcshop_db/table_cpus
+./mysql/pcshop_db/table_cpus/cpus.sql
+./mysql/pcshop_db/table_cpus/INSERT_Reference.sql
+./mysql/pcshop_db/table_cpus/INSERT_Working.sql
+./mysql/pcshop_db/table_graphics
+./mysql/pcshop_db/table_graphics/graphics.sql
+./mysql/pcshop_db/table_graphics/INSERT_Reference.sql
+./mysql/pcshop_db/table_graphics/INSERT_Working.sql
+./mysql/pcshop_db/table_hards
+./mysql/pcshop_db/table_hards/hards.sql
+./mysql/pcshop_db/table_hards/INSERT_Reference.sql
+./mysql/pcshop_db/table_hards/INSERT_Working.sql
+./mysql/pcshop_db/table_memorys
+./mysql/pcshop_db/table_memorys/INSERT_Reference.sql
+./mysql/pcshop_db/table_memorys/INSERT_Working.sql
+./mysql/pcshop_db/table_memorys/memorys.sql
+./mysql/pcshop_db/table_motherboards
+./mysql/pcshop_db/table_motherboards/INSERT_Reference.sql
+./mysql/pcshop_db/table_motherboards/INSERT_Working.sql
+./mysql/pcshop_db/table_motherboards/motherboards.sql
+./mysql/pcshop_db/table_motherboards/new.sql
+./mysql/pcshop_db/table_optdrives
+./mysql/pcshop_db/table_optdrives/INSERT_Reference.sql
+./mysql/pcshop_db/table_optdrives/INSERT_Working.sql
+./mysql/pcshop_db/table_optdrives/optdrives.sql
+./mysql/pcshop_db/table_powers
+./mysql/pcshop_db/table_powers/INSERT_Reference.sql
+./mysql/pcshop_db/table_powers/INSERT_Working.sql
+./mysql/pcshop_db/table_powers/powers.sql
+./mysql/pcshop_db/table_users.sql
+./mysql/SP and UDF.png
+./mysql/steve_perry
+./mysql/steve_perry/mysql_bookpub_reload_for_wamp.php
+./mysql/steve_perry/mysql_interface_for_wamp.php
+./mysql/steve_perry/steve_perry (changed to mysqli)
+./mysql/steve_perry/steve_perry (changed to mysqli)/mysql_bookpub_reload_for_wamp.php
+./mysql/steve_perry/steve_perry (changed to mysqli)/mysql_interface_for_wamp.php
+./mysql/steve_perry/steve_perry (changed to mysqli)/sql_history.txt
+./mysql/useful examples
+./mysql/useful examples/administration
+./mysql/useful examples/administration/general.sql
+./mysql/useful examples/aggregate functions.sql
+./mysql/useful examples/aliases.sql
+./mysql/useful examples/command line.txt
+./mysql/useful examples/comment syntax.sql
+./mysql/useful examples/comparison operators.sql
+./mysql/useful examples/concurrent connections
+./mysql/useful examples/concurrent connections/general.sql
+./mysql/useful examples/concurrent connections/how to avoid connections in sleep state.txt
+./mysql/useful examples/concurrent connections/kill a sleep thread.sql
+./mysql/useful examples/create table.sql
+./mysql/useful examples/create, drop, alter database.sql
+./mysql/useful examples/delete.sql
+./mysql/useful examples/foreign key constraint.sql
+./mysql/useful examples/foreign key syntax.sql
+./mysql/useful examples/function.sql
+./mysql/useful examples/general.sql
+./mysql/useful examples/having clause.sql
+./mysql/useful examples/identifier syntax and naming rules.sql
+./mysql/useful examples/in clause.sql
+./mysql/useful examples/insert.sql
+./mysql/useful examples/join archive.sql
+./mysql/useful examples/joins in mysql
+./mysql/useful examples/joins in mysql/inserts.sql
+./mysql/useful examples/joins in mysql/proj
+./mysql/useful examples/joins in mysql/proj/joins.mwb
+./mysql/useful examples/joins in mysql/proj/joins.mwb.bak
+./mysql/useful examples/joins in mysql/query.sql
+./mysql/useful examples/json.sql
+./mysql/useful examples/many-to-many
+./mysql/useful examples/many-to-many/inserts.sql
+./mysql/useful examples/many-to-many/n-n.mwb
+./mysql/useful examples/many-to-many/n-n.mwb.bak
+./mysql/useful examples/null checking.sql
+./mysql/useful examples/pattern matching.sql
+./mysql/useful examples/person and eyes
+./mysql/useful examples/person and eyes/data
+./mysql/useful examples/person and eyes/data/eyes.sql
+./mysql/useful examples/person and eyes/data/person.sql
+./mysql/useful examples/person and eyes/proj
+./mysql/useful examples/person and eyes/proj/person.mwb
+./mysql/useful examples/person and eyes/proj/person.mwb.bak
+./mysql/useful examples/person and eyes/query.sql
+./mysql/useful examples/relation.sql
+./mysql/useful examples/routines.sql
+./mysql/useful examples/sakila_query_1.sql
+./mysql/useful examples/select.sql
+./mysql/useful examples/selecting databases.sql
+./mysql/useful examples/show version.sql
+./mysql/useful examples/sql body.sql
+./mysql/useful examples/stored procedure.sql
+./mysql/useful examples/transaction.sql
+./mysql/useful examples/triggers.sql
+./mysql/useful examples/update a table with a value from another table.sql
+./mysql/useful examples/update.sql
+./mysql/useful examples/user-defined variables.sql
+./mysql/useful examples/what data type for money value.sql
+./networking
+./networking/Mobile Networks.txt
+./networking/Networking Related Commands.txt
+./networking/Telnet.txt
+./nginx
+./nginx/apache benchmark.txt
+./nginx/basic.txt
+./nginx/configuration file’s structure.txt
+./nginx/essential config.txt
+./nginx/start, stop, reload config.txt
+./nginx/using nginx as http load balancer.txt
+./node_modules
+./node_modules/balanced-match
+./node_modules/balanced-match/index.js
+./node_modules/balanced-match/LICENSE.md
+./node_modules/balanced-match/package.json
+./node_modules/balanced-match/README.md
+./node_modules/brace-expansion
+./node_modules/brace-expansion/index.js
+./node_modules/brace-expansion/LICENSE
+./node_modules/brace-expansion/package.json
+./node_modules/brace-expansion/README.md
+./node_modules/concat-map
+./node_modules/concat-map/example
+./node_modules/concat-map/example/map.js
+./node_modules/concat-map/index.js
+./node_modules/concat-map/LICENSE
+./node_modules/concat-map/package.json
+./node_modules/concat-map/README.markdown
+./node_modules/concat-map/test
+./node_modules/concat-map/test/map.js
+./node_modules/fs.realpath
+./node_modules/fs.realpath/index.js
+./node_modules/fs.realpath/LICENSE
+./node_modules/fs.realpath/old.js
+./node_modules/fs.realpath/package.json
+./node_modules/fs.realpath/README.md
+./node_modules/glob
+./node_modules/glob/changelog.md
+./node_modules/glob/common.js
+./node_modules/glob/glob.js
+./node_modules/glob/LICENSE
+./node_modules/glob/package.json
+./node_modules/glob/README.md
+./node_modules/glob/sync.js
+./node_modules/inflight
+./node_modules/inflight/inflight.js
+./node_modules/inflight/LICENSE
+./node_modules/inflight/package.json
+./node_modules/inflight/README.md
+./node_modules/inherits
+./node_modules/inherits/inherits_browser.js
+./node_modules/inherits/inherits.js
+./node_modules/inherits/LICENSE
+./node_modules/inherits/package.json
+./node_modules/inherits/README.md
+./node_modules/minimatch
+./node_modules/minimatch/LICENSE
+./node_modules/minimatch/minimatch.js
+./node_modules/minimatch/package.json
+./node_modules/minimatch/README.md
+./node_modules/once
+./node_modules/once/LICENSE
+./node_modules/once/once.js
+./node_modules/once/package.json
+./node_modules/once/README.md
+./node_modules/path-is-absolute
+./node_modules/path-is-absolute/index.js
+./node_modules/path-is-absolute/license
+./node_modules/path-is-absolute/package.json
+./node_modules/path-is-absolute/readme.md
+./node_modules/wrappy
+./node_modules/wrappy/LICENSE
+./node_modules/wrappy/package.json
+./node_modules/wrappy/README.md
+./node_modules/wrappy/wrappy.js
+./nodejs
+./nodejs/#.js
+./nodejs/inspect-process.txt
+./nodejs/justincase.png
+./nodejs/node --inspect.txt
+./nodejs/node-inspector.txt
+./nodejs/node.txt
+./nodejs/nodemon.txt
+./nodejs/npm
+./nodejs/npm not recognizing any command.txt
+./nodejs/npm/architecture.txt
+./nodejs/npm/bin path.txt
+./nodejs/npm/bulk.txt
+./nodejs/npm/check if any (or specific) installed packages are outdated.txt
+./nodejs/npm/clean cache.txt
+./nodejs/npm/create a system variable.txt
+./nodejs/npm/debug in chrome dev tools.txt
+./nodejs/npm/dependencies vs devDependencies.txt
+./nodejs/npm/deprecate published package.txt
+./nodejs/npm/devDependencies.txt
+./nodejs/npm/get info of the owner of a package.txt
+./nodejs/npm/git urls as dependencies.txt
+./nodejs/npm/how to make a binary executable for a script.txt
+./nodejs/npm/init.txt
+./nodejs/npm/install a package that is sitting in a folder on the filesystem..txt
+./nodejs/npm/install from git url.txt
+./nodejs/npm/install.txt
+./nodejs/npm/list installed packages.txt
+./nodejs/npm/local path dependencies.txt
+./nodejs/npm/locally installed package binary issue.txt
+./nodejs/npm/login via command line.txt
+./nodejs/npm/note about project name and package name.txt
+./nodejs/npm/npm install to a custom location.txt
+./nodejs/npm/npx.txt
+./nodejs/npm/only install deps or dev deps.txt
+./nodejs/npm/open github issues page of a package.txt
+./nodejs/npm/package.json
+./nodejs/npm/package.json/basic.json
+./nodejs/npm/package.json/preferGlobal.txt
+./nodejs/npm/package.json/refference.js
+./nodejs/npm/pass cli arg to script when using npm run.txt
+./nodejs/npm/publish package.txt
+./nodejs/npm/published package and line ending issue.txt
+./nodejs/npm/scoped packages.txt
+./nodejs/npm/search packages.txt
+./nodejs/npm/see the latest version of a package before installing it.txt
+./nodejs/npm/see where node would install packages if you npm install in a directory beforehand.txt
+./nodejs/npm/star.txt
+./nodejs/npm/uninstall.txt
+./nodejs/npm/unpublish (delete) published package.txt
+./nodejs/npm/update an already installed package.txt
+./nodejs/npm/update npm.txt
+./nodejs/npm/version.txt
+./nodejs/npm/what does the script field in package.json file do.txt
+./nodejs/npm/where node install packages.txt
+./nodejs/package
+./nodejs/package/#.js
+./nodejs/package/chalk.js
+./nodejs/package/chokidar (watching files and folders)
+./nodejs/package/chokidar (watching files and folders)/install.txt
+./nodejs/package/chokidar (watching files and folders)/usage.js
+./nodejs/package/colors (colored text in console.log).js
+./nodejs/package/commander
+./nodejs/package/commander/basic.js
+./nodejs/package/commander/command.js
+./nodejs/package/commander/official examples
+./nodejs/package/commander/official examples/argument syntax.js
+./nodejs/package/commander/official examples/coercion.js
+./nodejs/package/commander/official examples/custom help.js
+./nodejs/package/commander/official examples/defaults.js
+./nodejs/package/commander/official examples/description.js
+./nodejs/package/commander/official examples/example.js
+./nodejs/package/commander/official examples/option parsing.js
+./nodejs/package/commander/official examples/regular expression.js
+./nodejs/package/commander/official examples/sub-commands.js
+./nodejs/package/commander/official examples/variadic arguments.js
+./nodejs/package/commander/option.js
+./nodejs/package/commander/opts.js
+./nodejs/package/commander/program.js
+./nodejs/package/commander/show help if no arg.js
+./nodejs/package/commander/usage.js
+./nodejs/package/commander/version.js
+./nodejs/package/concat.js
+./nodejs/package/copy-dir.js
+./nodejs/package/cp-file.js
+./nodejs/package/cpy.js
+./nodejs/package/csso.js
+./nodejs/package/csv.js
+./nodejs/package/csvtojson.js
+./nodejs/package/exceljs.js
+./nodejs/package/express
+./nodejs/package/express/#.js
+./nodejs/package/express/access get request parameters.js
+./nodejs/package/express/access post request parameters.js
+./nodejs/package/express/app.engine.js
+./nodejs/package/express/app.listen.js
+./nodejs/package/express/app.locals.js
+./nodejs/package/express/app.set().js
+./nodejs/package/express/app.use().js
+./nodejs/package/express/basic folder structure
+./nodejs/package/express/basic folder structure/app-index.js
+./nodejs/package/express/basic folder structure/package.json
+./nodejs/package/express/basic folder structure/public
+./nodejs/package/express/basic folder structure/public/css
+./nodejs/package/express/basic folder structure/public/css/style.css
+./nodejs/package/express/basic folder structure/public/images
+./nodejs/package/express/basic folder structure/public/images/logo.jpg
+./nodejs/package/express/basic folder structure/public/js
+./nodejs/package/express/basic folder structure/public/js/script.js
+./nodejs/package/express/basic folder structure/routes
+./nodejs/package/express/basic folder structure/routes/home.js
+./nodejs/package/express/basic folder structure/views
+./nodejs/package/express/basic folder structure/views/about.jade
+./nodejs/package/express/basic folder structure/views/home.handlebars
+./nodejs/package/express/basic folder structure/views/template.htm
+./nodejs/package/express/basic.js
+./nodejs/package/express/cookie-parser
+./nodejs/package/express/cookie-parser/example.js
+./nodejs/package/express/cookie-parser/install.txt
+./nodejs/package/express/cors.js
+./nodejs/package/express/express-handlebars
+./nodejs/package/express/express-handlebars/basics.js
+./nodejs/package/express/express-handlebars/configuration and defaults.js
+./nodejs/package/express/express-handlebars/default file extension for templates and how to change it.js
+./nodejs/package/express/express-handlebars/install.txt
+./nodejs/package/express/express-handlebars/layouts and views.js
+./nodejs/package/express/express-handlebars/passing data to views.js
+./nodejs/package/express/express-handlebars/template caching.js
+./nodejs/package/express/express-handlebars/zhelloworld.zip
+./nodejs/package/express/express-session
+./nodejs/package/express/express-session/example.js
+./nodejs/package/express/express-session/install.txt
+./nodejs/package/express/express.Router().js
+./nodejs/package/express/generate app skeleton.txt
+./nodejs/package/express/hbs
+./nodejs/package/express/hbs/basic.js
+./nodejs/package/express/install.txt
+./nodejs/package/express/middleware.js
+./nodejs/package/express/note about resolving views in a generated app using express-generator.txt
+./nodejs/package/express/redirecting.js
+./nodejs/package/express/res.render().js
+./nodejs/package/express/routing.js
+./nodejs/package/express/serve-favicon
+./nodejs/package/express/serve-favicon/example.js
+./nodejs/package/express/serve-favicon/install.txt
+./nodejs/package/express/serving static files.js
+./nodejs/package/express/set default port.js
+./nodejs/package/express/set view engine.js
+./nodejs/package/find-in-files.js
+./nodejs/package/fs-extra.js
+./nodejs/package/fs.extra.js
+./nodejs/package/glob.js
+./nodejs/package/googleapis
+./nodejs/package/googleapis/get user email and profile.js
+./nodejs/package/googleapis/install.txt
+./nodejs/package/http-server.txt
+./nodejs/package/ipaddr.js.js
+./nodejs/package/line-by-line.js
+./nodejs/package/mkdirp.js
+./nodejs/package/mysql
+./nodejs/package/mysql/install.txt
+./nodejs/package/mysql/mysql.js
+./nodejs/package/progress.js
+./nodejs/package/read-excel-file.js
+./nodejs/package/readline-sync.js
+./nodejs/package/rimraf.js
+./nodejs/package/rtlcss
+./nodejs/package/rtlcss/cli.txt
+./nodejs/package/shelljs.js
+./nodejs/package/uglifyjs.txt
+./nodejs/package/ws.js
+./nodejs/package/yargs
+./nodejs/package/yargs/basic.js
+./nodejs/package/yargs/command.js
+./nodejs/package/yargs/default.js
+./nodejs/package/yargs/methods.js
+./nodejs/package/yargs/option and options.js
+./nodejs/package/yargs/reference.js
+./nodejs/package/yargs/show help if no arg specified.js
+./nodejs/useful examples
+./nodejs/useful examples/append to file.js
+./nodejs/useful examples/change current working directory.js
+./nodejs/useful examples/change lookup paths before require.js
+./nodejs/useful examples/check if a file or directory exists.js
+./nodejs/useful examples/console string substitution.js
+./nodejs/useful examples/cookie.js
+./nodejs/useful examples/create directory.js
+./nodejs/useful examples/create http server.js
+./nodejs/useful examples/createWriteStream.js
+./nodejs/useful examples/cwd can be changed by required scripts.js
+./nodejs/useful examples/delete file.js
+./nodejs/useful examples/detect if script is called with require() or directly by command line.js
+./nodejs/useful examples/detect ip address.js
+./nodejs/useful examples/detect node environment from the browser.js
+./nodejs/useful examples/directory separator.js
+./nodejs/useful examples/download file over http and save it.js
+./nodejs/useful examples/get all directories within a directory.js
+./nodejs/useful examples/get all files within a directory.js
+./nodejs/useful examples/get current filename and directory.js
+./nodejs/useful examples/get file name from absolute path.js
+./nodejs/useful examples/get global path in a cross platform way.js
+./nodejs/useful examples/get size of a file or dir.js
+./nodejs/useful examples/hello world.js
+./nodejs/useful examples/how node handles windows backsashes.js
+./nodejs/useful examples/include code from other files.js
+./nodejs/useful examples/indent json before writing to file.js
+./nodejs/useful examples/isDir.js
+./nodejs/useful examples/make http request like curl.js
+./nodejs/useful examples/make https request.js
+./nodejs/useful examples/my glob.js
+./nodejs/useful examples/os.js
+./nodejs/useful examples/pass command line arguments to node.js
+./nodejs/useful examples/path.resolve().js
+./nodejs/useful examples/process.cwd() vs __dirname.js
+./nodejs/useful examples/read directory and subdirectories.js
+./nodejs/useful examples/read file.js
+./nodejs/useful examples/readline.js
+./nodejs/useful examples/redirect a page.js
+./nodejs/useful examples/replace a string in a file.js
+./nodejs/useful examples/require a json file.js
+./nodejs/useful examples/return a string representation of object.js
+./nodejs/useful examples/session.js
+./nodejs/useful examples/set node environment to production.js
+./nodejs/useful examples/sha1.js
+./nodejs/useful examples/stat vs lstat vs fstat.js
+./nodejs/useful examples/sync error handling.js
+./nodejs/useful examples/TypeError Converting circular structure to JSON.js
+./nodejs/useful examples/umd modules.js
+./nodejs/useful examples/write file.js
+./nodejs/yarn
+./nodejs/yarn/basic.txt
+./nodejs/yarn/update.txt
+./notepad++
+./notepad++/%APPDATA%
+./notepad++/%APPDATA%/# stylers [php-js-c=me, cpp-cs=visualstudio, sql=workbench, darker-global-bg].xml
+./notepad++/%APPDATA%/stylers [Dark for C].xml
+./notepad++/%APPDATA%/stylers [php-js-c=me, cpp-cs=visualstudio, sql=workbench].xml
+./notepad++/%APPDATA%/stylers [php-js=me, c-cpp-cs=visualstudio, sql=workbench].xml
+./notepad++/%APPDATA%/stylers [php-js=me, c-cpp=codeblocks].xml
+./notepad++/%APPDATA%/stylers [php-js=me, c-cpp=visualstudio, sql=workbench].xml
+./notepad++/%APPDATA%/user defined lang
+./notepad++/%APPDATA%/user defined lang/gotankersley-jsx.xml
+./notepad++/%APPDATA%/user defined lang/marvinlabs_userDefinedLang_darktheme_SCSS.xml
+./notepad++/%APPDATA%/user defined lang/marvinlabs_userDefinedLang_SCSS.xml
+./notepad++/%APPDATA%/user defined lang/my-js-syntax-highlighting-npp.xml
+./notepad++/%APPDATA%/user defined lang/my-jsx-syntax-highlighting-npp.xml
+./notepad++/%APPDATA%/user defined lang/mysql-workbench-style-syntax-highlighting.xml
+./notepad++/%APPDATA%/user defined lang/typescript-syntax-highlighting-npp.xml
+./notepad++/%APPDATA%/user defined lang/userDefineLang [.p].xml
+./notepad++/change default indent.txt
+./notepad++/change global font to Consolas.txt
+./notepad++/change selected-text color in find dialogue.txt
+./notepad++/custom sql syntax-highlighting for notepad++.txt
+./notepad++/notepad++ regex reference.txt
+./notepad++/sass syntax-highlighting and autocomplete for notepad++.txt
+./notepad++/show end-of-line characters.txt
+./notepad++/start notepad++ via command line.txt
+./notepad++/trailing space.txt
+./notepad++/userDefined language trick.txt
+./package-lock.json
+./package.json
+./php
+./php/# - .php
+./php/access all of the function's arguments.php
+./php/alternative syntax for control structures.php
+./php/best way for handling paths.txt
+./php/check if a string contains letters.php
+./php/command line interface.txt
+./php/curl
+./php/curl/fetching a web page.php
+./php/curl/get request with query string parameters.php
+./php/curl/grab curl response into variable.php
+./php/curl/last error for the current session.php
+./php/curl/post request.php
+./php/curl/setting http headers.php
+./php/curl/SSL certificate problem - unable to get local issuer certificate.txt
+./php/date and time issues.php
+./php/debug
+./php/debug/chromephp.php
+./php/debug/firephp.php
+./php/debug/phpdbg.txt
+./php/debug/psysh.txt
+./php/debug/xdebug.txt
+./php/define constants.php
+./php/detect type.php
+./php/end-of-line handling.php
+./php/error handling.php
+./php/file handling.php
+./php/form action self.php
+./php/generate code
+./php/generate code/dynamic
+./php/generate code/dynamic/one folder and all its subfolders
+./php/generate code/dynamic/one folder and all its subfolders/getcss.php
+./php/generate code/dynamic/one folder and all its subfolders/getjs.php
+./php/generate code/dynamic/only one folder
+./php/generate code/dynamic/only one folder/getcss.php
+./php/generate code/dynamic/only one folder/getjs_script.php
+./php/generate code/dynamic/only one folder/getjs.php
+./php/generate code/night's watch
+./php/generate code/night's watch/out.txt
+./php/generate code/night's watch/t.php
+./php/generate code/night's watch/text.txt
+./php/generate code/static
+./php/generate code/static/getcss.php
+./php/generate code/static/getjs.php
+./php/get all defined constants.php
+./php/get all defined variables.php
+./php/isset for ajax.php
+./php/namespace.php
+./php/php built-in webserver.txt
+./php/PHP Regex
+./php/PHP Regex/PHP Regex quick reference.txt
+./php/PHP Regex/PHP's Regex.JPG
+./php/PHP Regex/Regex Cheat Sheet
+./php/PHP Regex/Regex Cheat Sheet/1.JPG
+./php/PHP Regex/Regex Cheat Sheet/2.JPG
+./php/PHP Regex/Regex Cheat Sheet/3.JPG
+./php/php_complex_arrays
+./php/php_complex_arrays/array_splice__array_search.php
+./php/php_complex_arrays/product.php
+./php/post variable.php
+./php/predefined constants.php
+./php/readfile.php
+./php/redirecting.php
+./php/reflection.php
+./php/see the list of php installed modules.txt
+./php/try catch.php
+./php/type of interface between php and web server.php
+./php/url get variable.txt
+./php/useful.txt
+./postgresql
+./postgresql/#.sql
+./postgresql/auto increment column.sql
+./postgresql/between operator.sql
+./postgresql/change server athentication method.txt
+./postgresql/column aliases.sql
+./postgresql/comments.sql
+./postgresql/concatenating data.sql
+./postgresql/foreign key.sql
+./postgresql/group by clause.sql
+./postgresql/having clause.sql
+./postgresql/in operator.sql
+./postgresql/insert in loop.sql
+./postgresql/joins
+./postgresql/joins/how join result is constructed.txt
+./postgresql/joins/inner join with on clause.sql
+./postgresql/joins/inner join with using clause.sql
+./postgresql/joins/join on different types.txt
+./postgresql/joins/joins order of processing.sql
+./postgresql/joins/types of join.txt
+./postgresql/like operator.sql
+./postgresql/logical operators.sql
+./postgresql/many-to-many relationship
+./postgresql/many-to-many relationship/sample data.sql
+./postgresql/many-to-many relationship/show all the authors of the book 'Desinging Databases' (book has many authors).sql
+./postgresql/many-to-many relationship/show all the books of the author ''Jordan Winters' (author has many books).sql
+./postgresql/many-to-many relationship/slide
+./postgresql/many-to-many relationship/slide/1-n.png
+./postgresql/many-to-many relationship/slide/n-n.png
+./postgresql/many-to-many relationship/slide/n-n(bad1).png
+./postgresql/many-to-many relationship/slide/n-n(bad2).png
+./postgresql/primary key.txt
+./postgresql/sample database
+./postgresql/sample database/dvdrental
+./postgresql/sample database/dvdrental/dvd-rental-sample-database-diagram.png
+./postgresql/sample database/dvdrental/dvdrental.zip
+./postgresql/sample database/steve perry
+./postgresql/sample database/steve perry/ORACLEAPEX (adjusted for postgres).sql
+./postgresql/sample database/steve perry/steve perry sample database (from wamp reload script).sql
+./postgresql/set password for the first time.txt
+./postgresql/start stop and restart the server.txt
+./postgresql/subqueries vs joins.sql
+./postgresql/subqueries vs self-joins.sql
+./postgresql/subquery.sql
+./postgresql/table aliases.sql
+./python
+./python/clear the console.txt
+./python/python.txt
+./react
+./react/#.js
+./react/adjacent jsx elements must be wrapped in an enclosing tag.js
+./react/basic flow.png
+./react/basic.js
+./react/component lifecyle.txt
+./react/component.js
+./react/controlled component.js
+./react/createContext().js
+./react/defaultProps.js
+./react/hooks.js
+./react/include.txt
+./react/integration with 3rd party libraries.js
+./react/prop-types.js
+./react/props.children.js
+./react/react setups
+./react/react setups/create-react-app.txt
+./react/react setups/handrolled by me
+./react/react setups/handrolled by me/essential
+./react/react setups/handrolled by me/essential packages.txt
+./react/react setups/handrolled by me/essential with sass and font loading
+./react/react setups/handrolled by me/essential with sass and font loading/package-lock.json
+./react/react setups/handrolled by me/essential with sass and font loading/package.json
+./react/react setups/handrolled by me/essential with sass and font loading/public
+./react/react setups/handrolled by me/essential with sass and font loading/public/index.html
+./react/react setups/handrolled by me/essential with sass and font loading/src
+./react/react setups/handrolled by me/essential with sass and font loading/src/App.css
+./react/react setups/handrolled by me/essential with sass and font loading/src/App.js
+./react/react setups/handrolled by me/essential with sass and font loading/src/index.js
+./react/react setups/handrolled by me/essential with sass and font loading/webpack.config.js
+./react/react setups/handrolled by me/essential/package-lock.json
+./react/react setups/handrolled by me/essential/package.json
+./react/react setups/handrolled by me/essential/public
+./react/react setups/handrolled by me/essential/public/index.html
+./react/react setups/handrolled by me/essential/src
+./react/react setups/handrolled by me/essential/src/App.css
+./react/react setups/handrolled by me/essential/src/App.js
+./react/react setups/handrolled by me/essential/src/index.js
+./react/react setups/handrolled by me/essential/webpack.config.js
+./react/react setups/using react-scripts directly (faster compile time than create-react-app)
+./react/react setups/using react-scripts directly (faster compile time than create-react-app)/package.json
+./react/react setups/using react-scripts directly (faster compile time than create-react-app)/public
+./react/react setups/using react-scripts directly (faster compile time than create-react-app)/public/favicon.ico
+./react/react setups/using react-scripts directly (faster compile time than create-react-app)/public/index.html
+./react/react setups/using react-scripts directly (faster compile time than create-react-app)/src
+./react/react setups/using react-scripts directly (faster compile time than create-react-app)/src/App.js
+./react/react setups/using react-scripts directly (faster compile time than create-react-app)/src/index.js
+./react/react-redux
+./react/react-redux/#.js
+./react/react-redux/basic.js
+./react/react-redux/install.txt
+./react/react-router
+./react/react-router/basic.js
+./react/react-router/multi page like.js
+./react/react-slide.ai
+./react/redux
+./react/redux/#.js
+./react/redux/action.js
+./react/redux/reducer.js
+./react/redux/store.js
+./react/ref.js
+./react/render props.js
+./react/state upward flow
+./react/state upward flow/package.json
+./react/state upward flow/public
+./react/state upward flow/public/index.html
+./react/state upward flow/src
+./react/state upward flow/src/App.css
+./react/state upward flow/src/App.js
+./react/state upward flow/src/Calculator.js
+./react/state upward flow/src/index.js
+./react/state upward flow/src/TemperatureInput.js
+./react/state upward flow/webpack.config.js
+./react/state.js
+./react/style prop syntax.js
+./ruby
+./ruby/bundle.txt
+./ruby/gem.txt
+./ruby/note about msys2 installation.txt
+./ruby/ridk.txt
+./ruby/ruby fails to install a gem.txt
+./ruby/rvm.txt
+./ruby/where gems are installed.txt
+./show.bat
+./static site generator
+./static site generator/gatsby.txt
+./static site generator/hugo.txt
+./static site generator/jekyll
+./static site generator/jekyll/basic.txt
+./static site generator/jekyll/example site
+./static site generator/jekyll/example site/_authors
+./static site generator/jekyll/example site/_authors/jill.md
+./static site generator/jekyll/example site/_authors/ted.md
+./static site generator/jekyll/example site/_config.yml
+./static site generator/jekyll/example site/_data
+./static site generator/jekyll/example site/_data/navigation.yml
+./static site generator/jekyll/example site/_drafts
+./static site generator/jekyll/example site/_includes
+./static site generator/jekyll/example site/_includes/navigation.html
+./static site generator/jekyll/example site/_layouts
+./static site generator/jekyll/example site/_layouts/author.html
+./static site generator/jekyll/example site/_layouts/default.html
+./static site generator/jekyll/example site/_layouts/post.html
+./static site generator/jekyll/example site/_posts
+./static site generator/jekyll/example site/_posts/2018-08-20-bananas.md
+./static site generator/jekyll/example site/_posts/2018-08-21-apples.md
+./static site generator/jekyll/example site/_posts/2018-08-22-kiwifruit.md
+./static site generator/jekyll/example site/_sass
+./static site generator/jekyll/example site/_sass/main.scss
+./static site generator/jekyll/example site/about.md
+./static site generator/jekyll/example site/assets
+./static site generator/jekyll/example site/assets/css
+./static site generator/jekyll/example site/assets/css/style.scss
+./static site generator/jekyll/example site/assets/images
+./static site generator/jekyll/example site/assets/images/cat.jpg
+./static site generator/jekyll/example site/assets/js
+./static site generator/jekyll/example site/blog.html
+./static site generator/jekyll/example site/index.html
+./static site generator/jekyll/example site/staff.html
+./static site generator/jekyll/front matter.txt
+./static site generator/jekyll/install.txt
+./static site generator/jekyll/jekyll.txt
+./static site generator/jekyll/liquid templating language.txt
+./static site generator/jekyll/structure.txt
+./static site generator/jekyll/variables - global.txt
+./static site generator/jekyll/variables - page.txt
+./static site generator/jekyll/variables - paginator.txt
+./static site generator/jekyll/variables - site.txt
+./stock
+./stock/economics
+./stock/economics/Basic Economics with my notes.pdf
+./stock/economics/purchasing power parody conversion.txt
+./stock/economics/term.txt
+./stock/economics/world model.txt
+./stock/my trading algorithm.txt
+./stock/numbers.txt
+./stock/p e ratio.txt
+./stock/percentage calcuation.txt
+./stock/stolysis.txt
+./stock/technical analysis
+./stock/technical analysis/andrew's pitchfork.txt
+./stock/technical analysis/channel line.txt
+./stock/technical analysis/fibonacci extensions (projection).txt
+./stock/technical analysis/fibonacci fan.txt
+./stock/technical analysis/fibonacci lines.txt
+./stock/technical analysis/fibonacci numbers.txt
+./stock/technical analysis/fibonacci retracements.txt
+./stock/technical analysis/gann lines.txt
+./stock/technical analysis/general.txt
+./stock/technical analysis/image
+./stock/technical analysis/image/channel line 1 - drawing.png
+./stock/technical analysis/image/channel line 2 - drawing.png
+./stock/technical analysis/image/channel line 3 - example.png
+./stock/technical analysis/image/channel line 4 - breaking.png
+./stock/technical analysis/image/channel line 5 - adjustment.png
+./stock/technical analysis/image/channel line 6 - adjustment.png
+./stock/technical analysis/image/fibonacci retracements 1.png
+./stock/technical analysis/image/fibonacci retracements 2.png
+./stock/technical analysis/image/head-and-shoulder.png
+./stock/technical analysis/image/inverse-head-and-shoulder.png
+./stock/technical analysis/image/island reversal.png
+./stock/technical analysis/image/percentage retracement 1.png
+./stock/technical analysis/image/percentage retracement 2.png
+./stock/technical analysis/image/price gaps 1.png
+./stock/technical analysis/image/price gaps 2.png
+./stock/technical analysis/image/price gaps 3 - island reversal.png
+./stock/technical analysis/image/reversal days 1.png
+./stock/technical analysis/image/reversal days 2.png
+./stock/technical analysis/image/speed resistance lines 1.png
+./stock/technical analysis/image/speed resistance lines 2.png
+./stock/technical analysis/image/support & resistance 1.png
+./stock/technical analysis/image/support & resistance 2.png
+./stock/technical analysis/image/support & resistance 3.png
+./stock/technical analysis/image/support & resistance 4.png
+./stock/technical analysis/image/support & resistance 5.png
+./stock/technical analysis/image/support & resistance 6.png
+./stock/technical analysis/image/support & resistance 7.png
+./stock/technical analysis/image/support & resistance 8.png
+./stock/technical analysis/image/trendline 1 - basic.png
+./stock/technical analysis/image/trendline 10 - role reversal.png
+./stock/technical analysis/image/trendline 11 - fan principle.png
+./stock/technical analysis/image/trendline 12 - fan principle.png
+./stock/technical analysis/image/trendline 13 - fan principle.png
+./stock/technical analysis/image/trendline 14 - relative steepness.png
+./stock/technical analysis/image/trendline 15 - adjustment.png
+./stock/technical analysis/image/trendline 16 - adjustment.png
+./stock/technical analysis/image/trendline 17 - adjustment.png
+./stock/technical analysis/image/trendline 18 - adjustment.png
+./stock/technical analysis/image/trendline 19 - internal.png
+./stock/technical analysis/image/trendline 2 - basic.png
+./stock/technical analysis/image/trendline 3 - basic.png
+./stock/technical analysis/image/trendline 4 - usage.png
+./stock/technical analysis/image/trendline 5 - usage.png
+./stock/technical analysis/image/trendline 6 - price action inclusion.png
+./stock/technical analysis/image/trendline 7 - small penetrations.png
+./stock/technical analysis/image/trendline 8 - role reversal.png
+./stock/technical analysis/image/trendline 9 - role reversal.png
+./stock/technical analysis/percentage retracements.txt
+./stock/technical analysis/price gaps.txt
+./stock/technical analysis/ratio (math).txt
+./stock/technical analysis/reversal days.txt
+./stock/technical analysis/speed resistance line.txt
+./stock/technical analysis/support & resistance.txt
+./stock/technical analysis/trendline.txt
+./sublime
+./sublime/associate a file extension with a language.txt
+./sublime/change font.txt
+./sublime/current settings.txt
+./sublime/current shortcuts.txt
+./sublime/custom color scheme
+./sublime/custom color scheme/myJavaScript.sublime-color-scheme
+./sublime/custom color scheme/setup.txt
+./sublime/define shortcut.txt
+./sublime/disable auto-complete.txt
+./sublime/important shortcuts.txt
+./sublime/install package control.txt
+./sublime/install soda dark.txt
+./sublime/laravel blade highlighter.txt
+./uikit
+./uikit/v2
+./uikit/v2/architecture
+./uikit/v2/architecture/general.scss
+./uikit/v2/architecture/grid.scss
+./uikit/v2/architecture/utility.scss
+./uikit/v2/change body or heading font-family.txt
+./uikit/v2/change font-awesome's @font-face.txt
+./uikit/v2/components are not included in the core (requires further includes).txt
+./uikit/v2/customizer css vs original build css.txt
+./uikit/v2/includes.txt
+./uikit/v2/useful examples
+./uikit/v2/useful examples/button.htm
+./uikit/v2/useful examples/form and radio.htm
+./uikit/v2/useful examples/grid.htm
+./uikit/v2/useful examples/icon.htm
+./uikit/v2/useful examples/modal.htm
+./uikit/v2/useful examples/notify.js
+./uikit/v3
+./uikit/v3/custom theme.scss
+./uikit/v3/includes.txt
+./uml
+./uml/# library
+./uml/# library/diamond.png
+./uml/# library/end.png
+./uml/# library/rounded-rectangle.png
+./uml/# library/start.png
+./uml/# notes
+./uml/# notes/basic.txt
+./uml/# notes/describtion of official diagram types.txt
+./uml/# notes/UML Distilled (3rd Ed, Highlighted).pdf
+./uml/# notes/useful but not uml.txt
+./uml/# notes/useful diagrams for design.txt
+./uml/# notes/useful diagrams for requirements analysis.txt
+./uml/activity
+./uml/activity/basic.txt
+./uml/activity/elements used in activity diagram.txt
+./uml/class
+./uml/class/association.txt
+./uml/class/basic.txt
+./uml/class/multiplicity.txt
+./uml/component
+./uml/component/basic.txt
+./uml/interaction diagrams.txt
+./uml/sequence
+./uml/sequence/basic.txt
+./uml/sequence/guard.txt
+./uml/sequence/interaction frame.txt
+./uml/sequence/loops and conditionals.txt
+./uml/sequence/synchronous vs asynchronous calls.txt
+./uml/sequence/when to use.txt
+./uml/state machine
+./uml/state machine/basic.txt
+./uml/timing
+./uml/timing/basic.txt
+./uml/uml-diagrams-overview.png
+./uml/uml2-official-diagram-types.png
+./ux
+./ux/[] notes.txt
+./ux/#.txt
+./ux/5 planes of ux
+./ux/5 planes of ux/0.png
+./ux/5 planes of ux/1.png
+./ux/5 planes of ux/10.png
+./ux/5 planes of ux/11.png
+./ux/5 planes of ux/12.png
+./ux/5 planes of ux/13.png
+./ux/5 planes of ux/14.png
+./ux/5 planes of ux/16.png
+./ux/5 planes of ux/17.png
+./ux/5 planes of ux/18.png
+./ux/5 planes of ux/19.png
+./ux/5 planes of ux/2.png
+./ux/5 planes of ux/20.png
+./ux/5 planes of ux/21.png
+./ux/5 planes of ux/22.png
+./ux/5 planes of ux/23.png
+./ux/5 planes of ux/24.png
+./ux/5 planes of ux/25.png
+./ux/5 planes of ux/26.png
+./ux/5 planes of ux/27.png
+./ux/5 planes of ux/3.png
+./ux/5 planes of ux/4.png
+./ux/5 planes of ux/5.png
+./ux/5 planes of ux/6.png
+./ux/5 planes of ux/7.png
+./ux/5 planes of ux/8.png
+./ux/5 planes of ux/9.png
+./ux/5 planes of ux/note.txt
+./ux/anatomy
+./ux/anatomy/1.png
+./ux/anatomy/10.png
+./ux/anatomy/11.png
+./ux/anatomy/12.png
+./ux/anatomy/13.png
+./ux/anatomy/2.png
+./ux/anatomy/3.png
+./ux/anatomy/4.png
+./ux/anatomy/5.png
+./ux/anatomy/6.png
+./ux/anatomy/7.png
+./ux/anatomy/8.png
+./ux/anatomy/9.png
+./ux/brand guidelines.txt
+./ux/brd example
+./ux/brd example/1.pdf
+./ux/brd example/2.pdf
+./ux/brd example/3.pdf
+./ux/brd example/4.pdf
+./ux/brd example/5.pdf
+./ux/card sorting.txt
+./ux/concepts.txt
+./ux/definition
+./ux/definition.txt
+./ux/definition/1.png
+./ux/definition/2.png
+./ux/definition/what is ux.png
+./ux/elements of user experience.pdf
+./ux/finding out who your users are
+./ux/finding out who your users are/1.png
+./ux/finding out who your users are/10.png
+./ux/finding out who your users are/11.png
+./ux/finding out who your users are/2.png
+./ux/finding out who your users are/3.png
+./ux/finding out who your users are/4.png
+./ux/finding out who your users are/5.png
+./ux/finding out who your users are/6.png
+./ux/finding out who your users are/7.png
+./ux/finding out who your users are/8.png
+./ux/finding out who your users are/9.png
+./ux/information architecture.txt
+./ux/map-of-ux.ai
+./ux/map-of-ux.png
+./ux/other
+./ux/other/0.png
+./ux/other/1.png
+./ux/other/2.png
+./ux/other/3.png
+./ux/other/4.png
+./ux/other/5.png
+./ux/other/checklists.doc
+./ux/other/Creating a UX Design Library.pdf
+./ux/other/instructions-for-observers.doc
+./ux/other/The KS Series.pdf
+./ux/other/UX – UI introduction.pdf
+./ux/persona
+./ux/persona.txt
+./ux/persona/1.png
+./ux/persona/persona-template-1.jpg
+./ux/persona/persona-template-3.png
+./ux/persona/prsona-telmplate-2.png
+./ux/process.txt
+./ux/quote.txt
+./ux/research
+./ux/research/qualitative vs quantitave data.txt
+./ux/responsibility.txt
+./ux/roles.txt
+./ux/scrum.txt
+./ux/software development methodologies
+./ux/software development methodologies/AgileClassPart1comp.pptx
+./ux/software development methodologies/devops.png
+./ux/software development methodologies/dsdm-2.jpg
+./ux/software development methodologies/dsdm.png
+./ux/software development methodologies/fdd.jpg
+./ux/software development methodologies/list.txt
+./ux/software development methodologies/prototype.jpg
+./ux/software development methodologies/rad.jpg
+./ux/software development methodologies/scrum-1.jpg
+./ux/software development methodologies/scrum-2.png
+./ux/software development methodologies/scrum-3.png
+./ux/software development methodologies/scrum-4.jpg
+./ux/software development methodologies/spiral-1.jpg
+./ux/software development methodologies/spiral-2.png
+./ux/software development methodologies/spiral-3.png
+./ux/software development methodologies/waterfall
+./ux/software development methodologies/waterfall/note.txt
+./ux/software development methodologies/waterfall/waterfall-1.png
+./ux/software development methodologies/waterfall/waterfall-2.png
+./ux/software development methodologies/waterfall/waterfall-3.png
+./ux/software development methodologies/waterfall/waterfall-4.jpg
+./ux/software development methodologies/waterfall/waterfall-5.jpg
+./ux/software development methodologies/xp.jpg
+./ux/sus score.txt
+./ux/task flow vs user flow.txt
+./ux/template
+./ux/template/konigi-8-up-cyan.pdf
+./ux/template/konigi-8-up-gray.pdf
+./ux/template/konigi-dotgrid-cyan.pdf
+./ux/template/konigi-dotgrid-gray.pdf
+./ux/template/konigi-storyboard-cyan.pdf
+./ux/template/konigi-storyboard-gray.pdf
+./ux/template/konigi-wireframe-cyan.pdf
+./ux/template/konigi-wireframe-gray.pdf
+./ux/template/konigi-wireframe-portrait-cyan.pdf
+./ux/template/konigi-wireframe-portrait-gray.pdf
+./ux/template/uxi-matrix-template.xls
+./ux/travel website example.txt
+./ux/ui vs ux.txt
+./ux/ultimate goal.txt
+./ux/useful
+./ux/useful/1.png
+./ux/useful/a map of your creative team.png
+./ux/useful/components.png
+./ux/useful/content development cycle.jpg
+./ux/useful/definition.png
+./ux/useful/prioritize.png
+./ux/useful/spectrum of ux.gif
+./ux/useful/task & steps.png
+./ux/useful/treasure map.png
+./ux/useful/ux components.jpg
+./ux/useful/ux design process.png
+./ux/useful/ux lifecycle.png
+./ux/useful/ux project checklist.png
+./ux/useful/ux.jpg
+./ux/useful/wheel of emotions.jpg
+./ux/user story
+./ux/user story/mike cohn - user stories
+./ux/user story/mike cohn - user stories/1. user story samples.png
+./ux/user story/mike cohn - user stories/10. additional useful terms.png
+./ux/user story/mike cohn - user stories/11. epic example.png
+./ux/user story/mike cohn - user stories/12. epic breaking.png
+./ux/user story/mike cohn - user stories/13. epic breaking.png
+./ux/user story/mike cohn - user stories/14. epic breaking.png
+./ux/user story/mike cohn - user stories/15. writing user stories.png
+./ux/user story/mike cohn - user stories/16. logging in story.png
+./ux/user story/mike cohn - user stories/17. story-writing workshops.png
+./ux/user story/mike cohn - user stories/18. start with epics and iterate.png
+./ux/user story/mike cohn - user stories/19. start with epics and iterate.png
+./ux/user story/mike cohn - user stories/2. where are the details.png
+./ux/user story/mike cohn - user stories/20. why user stories.png
+./ux/user story/mike cohn - user stories/21. why user stories.png
+./ux/user story/mike cohn - user stories/22. why user stories.png
+./ux/user story/mike cohn - user stories/23. why user stories.png
+./ux/user story/mike cohn - user stories/24. why user stories, words are imprecise.png
+./ux/user story/mike cohn - user stories/25. why user stories, words are imprecise.png
+./ux/user story/mike cohn - user stories/26. why user stories, examples.png
+./ux/user story/mike cohn - user stories/27. why user stories, examples.png
+./ux/user story/mike cohn - user stories/28. why user stories, examples.png
+./ux/user story/mike cohn - user stories/29. why user stories, examples.png
+./ux/user story/mike cohn - user stories/3. details as conditions of satisfaction.png
+./ux/user story/mike cohn - user stories/30. why user stories, additional reasons.png
+./ux/user story/mike cohn - user stories/31. why user stories, yet more reasons.png
+./ux/user story/mike cohn - user stories/32. why user stories.png
+./ux/user story/mike cohn - user stories/33. why user stories.png
+./ux/user story/mike cohn - user stories/34. last.png
+./ux/user story/mike cohn - user stories/4. details as conditions of satisfaction.png
+./ux/user story/mike cohn - user stories/5 details added in smaller sub-stories.png
+./ux/user story/mike cohn - user stories/6. techniques can be combined.png
+./ux/user story/mike cohn - user stories/7. product backlog iceberg.png
+./ux/user story/mike cohn - user stories/8. backlog grooming.png
+./ux/user story/mike cohn - user stories/9. backlog grooming.png
+./ux/user story/mike cohn - user stories/notes.txt
+./ux/user story/persona vs user profile.txt
+./ux/user story/user story.txt
+./ux/user story/Writing-Effective-User-Stories-Agile-Requirements-Software-Development-Best-Practices-2005.pdf
+./ux/user story/WritingGreatUserStories.pdf
+./ux/ux title generator.png
+./ux/ux wheel
+./ux/ux wheel/ux wheel-2.png
+./ux/ux wheel/ux wheel.png
+./ux/why ux is not only the responsibility of the uxer.pdf
+./vim
+./vim/create file.txt
+./vim/how to exit vim.txt
+./vim/show hidden characters.txt
+./vscode
+./vscode/always open files in new tab.txt
+./vscode/background color.txt
+./vscode/change keyboard shortcuts.txt
+./vscode/change matching html tag highlight color.txt
+./vscode/change typescript version used by vscode.txt
+./vscode/cli.txt
+./vscode/convert spaces to tabs.txt
+./vscode/default code-folding shortcuts.txt
+./vscode/don't show welcome screen.txt
+./vscode/fixing selected text color highlight issue.txt
+./vscode/format code.txt
+./vscode/format multiline code to single line.txt
+./vscode/git bash as integrated terminal.txt
+./vscode/git not found.txt
+./vscode/make extensions work in other languages.txt
+./vscode/my
+./vscode/my/keybindings.json
+./vscode/my/prev-settings.json
+./vscode/open files in same window.txt
+./vscode/tab size and spaces.txt
+./vscode/treat hbs as html.txt
+./vue
+./vue/#.html
+./vue/#.js
+./vue/#.vue
+./vue/basic.js
+./vue/cli.txt
+./vue/comments in .vue files.vue
+./vue/component.vue
+./vue/include.txt
+./vue/no build
+./vue/no build/#.js
+./vue/no build/basic.html
+./vue/no build/templating options.js
+./vue/no build/vue instance.js
+./vue/no build/Vue.component().js
+./vue/note about structure of this folder.txt
+./vue/template syntax.html
+./vue/vue.config.js
+./webgl
+./webgl/#.js
+./webgl/basics.htm
+./webgl/basics.js
+./webgl/buffers.js
+./webgl/getting the webgl context.js
+./websocket
+./websocket/#.js
+./websocket/client basics.js
+./websocket/client.htm
+./websocket/old
+./websocket/old/basic_websocket_server.php
+./websocket/old/server.php
+./websocket/old/socket-servers
+./websocket/old/socket-servers/websocket-example
+./websocket/old/socket-servers/websocket-example/index.php
+./websocket/old/socket-servers/websocket-example/Read_Me.txt
+./websocket/old/socket-servers/websocket-example/server.php
+./websocket/old/socket-servers/websockets-stackguy
+./websocket/old/socket-servers/websockets-stackguy/client.php
+./websocket/old/socket-servers/websockets-stackguy/jquery-1.8.3.min.js
+./websocket/old/socket-servers/websockets-stackguy/server
+./websocket/old/socket-servers/websockets-stackguy/server/socket.class.php
+./websocket/old/socket-servers/websockets-stackguy/server/socketWebSocket.class.php
+./websocket/old/socket-servers/websockets-stackguy/server/startDaemon.php
+./websocket/old/socket-servers/websockets-stackguy/start.php
+./websocket/old/socket-servers/websockets-stackguy/stop.php
+./websocket/old/stream.php
+./websocket/old/websocket_client.htm
+./websocket/old/websocket_server.php
+./websocket/socket.io
+./websocket/socket.io/basic client.js
+./websocket/socket.io/basic server.js
+./wiki app
+./wiki app/gollum (failed to install on windows).txt
+./wiki app/jingo.txt
+./wiki app/raneto.txt
+./wiki app/wiki.js.txt
+./windows
+./windows/deluge
+./windows/deluge/deluge.txt
+./windows/deluge/ExitDelugeShutdown.bat
+./windows/deluge/ExitDelugeShutdown.lnk
+./windows/disable chrome update.txt
+./windows/disable the `Broken Shortcut` task.txt
+./windows/graphics profiles.txt
+./windows/how to delete hiberfil.sys.txt
+./windows/km problem with mkv videos.txt
+./windows/move bittorent from %appdata% to another drive.txt
+./windows/region and language.txt
+./windows/sch-tasks
+./windows/sch-tasks/copy_G.xml
+./windows/sch-tasks/copy_H.xml
+./windows/sch-tasks/copy_I.xml
+./windows/sch-tasks/copy_J.xml
+./windows/sch-tasks/del_G.xml
+./windows/sch-tasks/del_H.xml
+./windows/sch-tasks/del_I.xml
+./windows/sch-tasks/del_J.xml
+./windows/sch-tasks/lol.xml
+./windows/sch-tasks/shutdown.xml
+./windows/see which process is listening on a port.txt
+./windows/shutdown.txt
+./windows/sleeping solution
+./windows/sleeping solution/sleeping solution (better-one, works!)
+./windows/sleeping solution/sleeping solution (better-one, works!)/10.txt
+./windows/sleeping solution/sleeping solution (better-one, works!)/100.txt
+./windows/sleeping solution/sleeping solution (better-one, works!)/add (every 15 minutes).lnk
+./windows/sleeping solution/sleeping solution (better-one, works!)/file.txt
+./windows/sleeping solution/sleeping solution (better-one, works!)/make it run in the background
+./windows/sleeping solution/sleeping solution (better-one, works!)/make it run in the background/step 1.png
+./windows/sleeping solution/sleeping solution (better-one, works!)/make it run in the background/step 2.png
+./windows/sleeping solution/sleeping solution (better-one, works!)/make it run in the background/step 3.png
+./windows/sleeping solution/sleeping solution (better-one, works!)/setzero (every 1 hour).lnk
+./windows/sleeping solution/sleeping solution (better-one, works!)/taskscheduler.txt
+./windows/sleeping solution/sleeping solution (first-one, not very effective)
+./windows/sleeping solution/sleeping solution (first-one, not very effective)/forLooping 1.lnk
+./windows/sleeping solution/sleeping solution (first-one, not very effective)/forLooping 2.lnk
+./windows/sleeping solution/sleeping solution (first-one, not very effective)/test.txt
+./windows/startup programs through regedit.txt
+./windows/stop km from connecting to internet.txt
+./windows/stop windows from puting external drive to sleep.txt
+./windows/taskkill.txt
+./windows/torrent blocking solutions.txt
+./windows/turn off file sharing.txt
+./windows/turn off usb stand-by power.txt
+./windows/useful win shortcuts.txt
+./windows/useful.txt
+./windows/windows changing considarations.txt
+./windows/windows reservable bandwidth.txt
+./windows/windows symbols.txt
+./windows/x86 explorer.lnk
+./word
+./word/farsi numbers.txt
+./word/import styles from one document to another.txt
+./word/non breaking space.txt
+./word/set default font.txt
+./yaml
+./yaml/#.yaml
+./yaml/basic.yaml
+./yaml/jingo config.yaml
+./youtube advanced search operators.htm
+./misc
+./misc/built-in webserver.txt
+./misc/disable cache in firefox.txt
+./misc/export chrome bookmarks programmatically
+./misc/export chrome bookmarks programmatically/convert.ps1
+./misc/export chrome bookmarks programmatically/how.txt
+./misc/q.txt
+./misc/q2.txt
+./misc/winscp error.txt
+./other
+./other/ajax_references
+./other/ajax_references/ajax_json
+./other/ajax_references/ajax_json/ajax_json_JavaScript-Kit.php
+./other/ajax_references/ajax_json/ajax_json.php
+./other/ajax_references/ajax_json/book.json
+./other/ajax_references/ajax_json/web-sites.json
+./other/ajax_references/ajax_text
+./other/ajax_references/ajax_text/forPcShop
+./other/ajax_references/ajax_text/forPcShop/include.php
+./other/ajax_references/ajax_text/forPcShop/search_options.php
+./other/ajax_references/ajax_text/forPcShop/style.css
+./other/ajax_references/ajax_text/myFirstTry
+./other/ajax_references/ajax_text/myFirstTry/BetterTry.inc.php
+./other/ajax_references/ajax_text/myFirstTry/BetterTry.php
+./other/ajax_references/ajax_text/myFirstTry/FirstTry.inc.php
+./other/ajax_references/ajax_text/myFirstTry/FirstTry.php
+./other/ajax_references/ajax_text/myFirstTry/style.css
+./other/ajax_references/ajax_xml
+./other/ajax_references/ajax_xml/ajax_xml.php
+./other/ajax_references/ajax_xml/products.xml
+./other/ajax_references/Alex Garrett
+./other/ajax_references/Alex Garrett/175_176_177_178_179 - Auto Suggest Application
+./other/ajax_references/Alex Garrett/175_176_177_178_179 - Auto Suggest Application/index.php
+./other/ajax_references/Alex Garrett/175_176_177_178_179 - Auto Suggest Application/search.inc.php
+./other/ajax_references/Alex Garrett/180_181_182_183_184 - POSTing Data
+./other/ajax_references/Alex Garrett/180_181_182_183_184 - POSTing Data/index.php
+./other/ajax_references/Alex Garrett/180_181_182_183_184 - POSTing Data/update.inc.php
+./other/html-css_practice
+./other/html-css_practice/csspractice.css
+./other/html-css_practice/csspractice.htm
+./other/html-css_practice/web.jpg
+./other/ie9ver.png
+./other/Parsian CD Examples
+./other/Parsian CD Examples/Fasle 3
+./other/Parsian CD Examples/Fasle 3/1 - Message (msg).html
+./other/Parsian CD Examples/Fasle 3/1 - Message.html
+./other/Parsian CD Examples/Fasle 3/1 - Return.html
+./other/Parsian CD Examples/Fasle 3/1 - Total.html
+./other/Parsian CD Examples/Fasle 3/2 - Do While.html
+./other/Parsian CD Examples/Fasle 3/2 - For.html
+./other/Parsian CD Examples/Fasle 3/2 - While.html
+./other/Parsian CD Examples/Fasle 3/4 - Break.html
+./other/Parsian CD Examples/Fasle 3/4 - Continue.html
+./other/Parsian CD Examples/Fasle 3/5 - Araye ha.html
+./other/Parsian CD Examples/Fasle 3/6 - All Methods For Array.txt
+./other/Parsian CD Examples/Fasle 3/6 - Concat.html
+./other/Parsian CD Examples/Fasle 3/6 - Join.html
+./other/Parsian CD Examples/Fasle 3/6 - Length.html
+./other/Parsian CD Examples/Fasle 3/6 - Pop.html
+./other/Parsian CD Examples/Fasle 3/6 - Push.html
+./other/Parsian CD Examples/Fasle 3/6 - Reverse.html
+./other/Parsian CD Examples/Fasle 3/6 - Shift.html
+./other/Parsian CD Examples/Fasle 3/6 - Unshift.html
+./other/Parsian CD Examples/Fasle 4
+./other/Parsian CD Examples/Fasle 4/1_Shey ha dar js (car).html
+./other/Parsian CD Examples/Fasle 4/2_1 Metod haye yek Shey (displaycar).html
+./other/Parsian CD Examples/Fasle 4/2_2 Metod haye yek Shey (employee).html
+./other/Parsian CD Examples/Fasle 4/3_  Shey String.html
+./other/Parsian CD Examples/Fasle 4/4_2 Metod Haye Shey String (big).html
+./other/Parsian CD Examples/Fasle 4/4_3 Metod Haye Shey String (bold - blink).html
+./other/Parsian CD Examples/Fasle 4/4_4 Metod Haye Shey String (charAt - charCodeAt).html
+./other/Parsian CD Examples/Fasle 4/4_5 Metod Haye Shey String (concat - fixed - fontcolor - fontsize).html
+./other/Parsian CD Examples/Fasle 4/4_6 Metod Haye Shey String (indexOf).html
+./other/Parsian CD Examples/Fasle 4/5_1 Edame Metod Haye Shey String (italics - link - match).html
+./other/Parsian CD Examples/Fasle 4/5_2 Edame Metod Haye Shey String (replace).html
+./other/Parsian CD Examples/Fasle 4/5_3 Edame Metod Haye Shey String (search - slice).html
+./other/Parsian CD Examples/Fasle 4/6_1 Digar Metod Haye Shey String (split).html
+./other/Parsian CD Examples/Fasle 4/6_2 Digar Metod Haye Shey String (strike - sub - sup - toLowerCase - toUpperCase - substr).html
+./other/Parsian CD Examples/Fasle 4/7_1 Shey Math (random).html
+./other/Parsian CD Examples/Fasle 4/7_2 Shey Math (ceil - floor - round).html
+./other/Parsian CD Examples/Fasle 4/7_3 Shey Math (random + round).html
+./other/Parsian CD Examples/Fasle 5
+./other/Parsian CD Examples/Fasle 5/1_1 Tashkhis va Barkhord ba Khataha dar JS.html
+./other/Parsian CD Examples/Fasle 5/2_1 Dastoor Throw.html
+./other/Parsian CD Examples/Fasle 5/3_1 Tashkhis Moroorgar ba Estefade az Shey Navigator.html
+./other/Parsian CD Examples/Fasle 5/4_1 getCookie - setCookie - checkCookie.html
+./other/Parsian CD Examples/Fasle 5/5_1 Etebar Sanji ba JS (validate_required - validate_form).html
+./other/Parsian CD Examples/Fasle 5/6_1 Etebar Sanji Email (validate_email - validate_form).html
+./other/shirts4mike
+./other/shirts4mike/arrays.php
+./other/shirts4mike/contact.php
+./other/shirts4mike/css
+./other/shirts4mike/css/style.css
+./other/shirts4mike/favicon.ico
+./other/shirts4mike/img
+./other/shirts4mike/img/banner-background.jpg
+./other/shirts4mike/img/banner-link-arrow.png
+./other/shirts4mike/img/branding-title.png
+./other/shirts4mike/img/logo-paypal-classic.png
+./other/shirts4mike/img/logo-paypal.png
+./other/shirts4mike/img/mike-the-frog.png
+./other/shirts4mike/img/nav-sprite.png
+./other/shirts4mike/img/shirts
+./other/shirts4mike/img/shirts/shirt-101.jpg
+./other/shirts4mike/img/shirts/shirt-102.jpg
+./other/shirts4mike/img/shirts/shirt-103.jpg
+./other/shirts4mike/img/shirts/shirt-104.jpg
+./other/shirts4mike/img/shirts/shirt-105.jpg
+./other/shirts4mike/img/shirts/shirt-106.jpg
+./other/shirts4mike/img/shirts/shirt-107.jpg
+./other/shirts4mike/img/shirts/shirt-108.jpg
+./other/shirts4mike/img/shirts/Thumbs.db
+./other/shirts4mike/inc
+./other/shirts4mike/inc/footer.php
+./other/shirts4mike/inc/header.php
+./other/shirts4mike/inc/products.php
+./other/shirts4mike/index.php
+./other/shirts4mike/shirt.php
+./other/shirts4mike/shirts.php
+./other/soq.js

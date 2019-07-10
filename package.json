@@ -1,25 +1,30 @@
 {
-  "name": "ggen",
+  "name": "exrefview",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
+	  "gentree": "node scripts/gentree.js --path ./public/data > public/js/treedata.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m-ahmadi/ggen.git"
+    "url": "git+https://github.com/m-ahmadi/exrefview.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/m-ahmadi/ggen/issues"
+    "url": "https://github.com/m-ahmadi/exrefview/issues"
   },
-  "homepage": "https://github.com/m-ahmadi/ggen#readme",
+  "homepage": "https://github.com/m-ahmadi/exrefview#readme",
   "dependencies": {
     "directory-tree": "^2.2.3",
     "glob": "^7.1.4",
     "util-ma": "^1.1.16"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-livereload": "^4.0.1"
   }
 }

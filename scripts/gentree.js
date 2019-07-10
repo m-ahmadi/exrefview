@@ -1,6 +1,7 @@
 const path = require('path');
 const dirTree = require("directory-tree");
 const u = require("util-ma");
+const args = process.argv.slice(2);
 
 // const glob = require("glob");
 // const filePaths = glob.sync("./**/*");
@@ -8,7 +9,15 @@ const u = require("util-ma");
 	// // console.log(path)
 // });
 
-const tree = dirTree("./", {
+let dirPath = "";
+if ( args.includes("--path") ) {
+	dirPath = args[ args.indexOf("--path") + 1 ];
+} else {
+	console.log("--path argument was not porivded.");
+	return;
+}
+
+const tree = dirTree(dirPath, {
 	normalizePath: true,
 	exclude: /(node_modules|#.(css|scss|js|ts|html|htm|vue|yaml|yml|sql|php|))/
 });
@@ -26,7 +35,7 @@ function processJstree(input, ctx) {
 		} else { // a file
 			ctx.id = (counter+=1);
 			ctx.text = input.name;
-			ctx.type = "file";
+			ctx.type = path.extname(input.path).slice(1);
 		}
 	} else if ( u.isArr(input) ) {
 		input.forEach( (child, index) => {
