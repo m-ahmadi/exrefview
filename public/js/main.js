@@ -6,17 +6,46 @@ $.get("./js/treedata.json", data => {
 	createJstree(data);
 	
 	log( search(gdata, 393) );
-	log( c );
+	log( gdata );
+	
 });
 
-
-function search(arr, id) {
+function search(arr, id, prev=[]) {
 	let found;
 	const len = arr.length;
 	
 	for (let i=0; i<len; i+=1) {
 		if (found) break;
-		c+=1;
+		
+		const obj = arr[i];
+		if (obj.id === id) {
+			found = obj;
+			prev.push(obj.text);
+			break;
+		}
+		
+		const children = obj.children;
+		if (children) {
+			prev.push(obj.text);
+			found = search(children, id, prev);
+		}
+	}
+	
+	if (found && found.id) {
+		return { found, path: prev.join("/") };
+	} else {
+		prev.pop();
+		return found;
+	}
+}
+
+/* function search(arr, id) {
+	let found;
+	const len = arr.length;
+	
+	for (let i=0; i<len; i+=1) {
+		if (found) break;
+		
 		const obj = arr[i];
 		if (obj.id === id) {
 			found = obj;
@@ -29,101 +58,8 @@ function search(arr, id) {
 	}
 	
 	return found;
-}
-
-var c = 0;
-/* function search(arr, id) {
-	return arr.find(obj => { // an entity
-		c+=1;
-		if (obj.id === id) {
-			return obj;
-		} else if (obj.children) {
-			return search(obj.children, id);
-		}
-	});
 } */
-/*
-//@@@@@@@	@@@@	@@@@	@@@@	@@@@	@@@@	@@@@	
-	let found = arr.find(obj => { // an entity
-		log(obj.text);
-		if (obj.id === id) {
-			t = obj;
-			log("found it");
-			return obj;
-		}
-	});
-	if (!found) {
-		arr.forEach(o => {
-			if (o.id === id) {
-				found = obj;
-			} else if (o.children) {
-				search(o.children);
-			}
-		});
-	}
-	
-//@@@@@@@	@@@@	@@@@	@@@@	@@@@	@@@@	@@@@	
-	var t;
-function search(arr, id) {
-	let found = arr.find(obj => { // an entity
-		log(obj.id);
-		if (obj.id === id) {
-			t = obj;
-			log("found it");
-			return obj;
-		}
-	});
-	return found;
-}
-function another(arr, id) {
-	var found = search(arr, id);
-	if (!found) {
-		//---------------------------------------------
-		// arr for each
-		let len = arr.length;
-		for (let i=0; i<len; i+=1) {
-			const obj = arr[i];
-			log(obj.id);
-			if (obj.id === id) {
-				found = obj;
-			} else if (obj.children) {
-				found = search(obj.children, id);
-			}
-			if (found) break;
-		}
-		//---------------------------------------------
-	}
-	return found;
-}
-	
-//@@@@@@@	@@@@	@@@@	@@@@	@@@@	@@@@	@@@@	
-	let found;
-	let len = arr.length;
-	for (let i=0; i<len; i+=1) {
-		const obj = arr[i];
-		log(obj.id);
-		if (obj.id === id) {
-			log("found it");
-			found = obj;
-			break;
-		} else if (obj.children) {
-			search(obj.children, id);
-		}
-	}
-	return found;
-	
-//@@@@@@@	@@@@	@@@@	@@@@	@@@@	@@@@	@@@@	
-	arr.forEach( (obj, index, arr) => {	 // an entity
-		log(obj.id);
-		if (obj.id === id) {
-			log("found it");
-			founded = obj;
-			return;
-		} else if (obj.children) {
-			search(obj.children, id);
-		}
-	});	
-*/
+
 
 
 
