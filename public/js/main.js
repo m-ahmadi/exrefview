@@ -1,22 +1,71 @@
 const log = console.log;
-
 var gdata;
+var ndata;
 $.get("./js/treedata.json", data => {
 	gdata = data;
 	createJstree(data);
+	ndata = convert(data);
 	
-	log( search(gdata, 393) );
-	log( gdata );
-	
+	var t0 = performance.now();
+	var x = search(ndata, 1322);
+	var t1 = performance.now();
+	console.log("Call to search took " + (t1 - t0) + " milliseconds.")
+
+	log( x );
+	// log( search(gdata, 1322) );
+	log( c );
 });
 
-function search(arr, id, prev=[]) {
+var c = 0;
+
+function convert(arr) {
+	const res = {};
+	const len = arr.length;
+	for (let i=0; i<len; i+=1) {
+		const obj = arr[i];
+		res[obj.id] = obj;
+	}
+	return res;
+}
+
+
+function search(obj, id, path=[]) {
+	c+=1;
+	let target = obj[id];
+	path.push(target.text);
+	if (target.parent === "#") {
+		return path.reverse().join("/");
+	} else {
+		return search(obj, target.parent, path)
+	}
+}
+
+function search1(arr, id, path=[]) {
+	c+=1;
+	let target = arr.filter(i => {
+		c+=1;
+		return i.id === id ? i : undefined;
+	})[0];
+	path.push(target.text);
+	if (target.parent === "#") {
+		return path.reverse().join("/");
+	} else {
+		return search1(arr, target.parent, path)
+	}
+}
+
+
+
+
+
+/* function search(arr, id, prev=[]) {
 	let found;
 	const len = arr.length;
 	
+	
 	for (let i=0; i<len; i+=1) {
 		if (found) break;
-		
+		c+=1;
 		const obj = arr[i];
 		if (obj.id === id) {
 			found = obj;
@@ -37,28 +86,8 @@ function search(arr, id, prev=[]) {
 		prev.pop();
 		return found;
 	}
-}
-
-/* function search(arr, id) {
-	let found;
-	const len = arr.length;
-	
-	for (let i=0; i<len; i+=1) {
-		if (found) break;
-		
-		const obj = arr[i];
-		if (obj.id === id) {
-			found = obj;
-			break;
-		}
-		const children = obj.children;
-		if (children) {
-			found = search(children, id);
-		}
-	}
-	
-	return found;
 } */
+
 
 
 

@@ -45,8 +45,27 @@ function processJstree(input, ctx) {
 	}
 }
 
-processJstree(tree, newTree);
-console.log( JSON.stringify(newTree.children) );
+function processJstreeAlternative(arr, parent="#", res=[]) {
+	arr.forEach(obj => {
+		const children = obj.children;
+		const newObj = {
+			id: (counter+=1),
+			text: obj.name,
+			parent: parent,
+		};
+		if (!children) newObj.type = path.extname(obj.path).slice(1);
+		res.push(newObj);
+		if (children) processJstreeAlternative(children, newObj.id, res);
+	});
+	return res;
+}
+
+
+var res = processJstreeAlternative(tree.children);
+console.log( JSON.stringify(res) );
+
+// processJstree(tree, newTree);
+// console.log( JSON.stringify(newTree.children) );
 
 // processDhtmlx(tree, newTree);
 // console.log( JSON.stringify(newTree.items) );
