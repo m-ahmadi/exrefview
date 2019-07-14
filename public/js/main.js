@@ -6,13 +6,7 @@ $.get("./js/treedata.json", data => {
 	createJstree(data);
 	ndata = convert(data);
 	
-	var t0 = performance.now();
-	var x = search(ndata, 1322);
-	var t1 = performance.now();
-	console.log("Call to search took " + (t1 - t0) + " milliseconds.")
-
-	log( x );
-	// log( search(gdata, 1322) );
+	log( search(ndata, 392) );
 	log( c );
 });
 
@@ -28,7 +22,6 @@ function convert(arr) {
 	return res;
 }
 
-
 function search(obj, id, path=[]) {
 	c+=1;
 	let target = obj[id];
@@ -39,54 +32,6 @@ function search(obj, id, path=[]) {
 		return search(obj, target.parent, path)
 	}
 }
-
-function search1(arr, id, path=[]) {
-	c+=1;
-	let target = arr.filter(i => {
-		c+=1;
-		return i.id === id ? i : undefined;
-	})[0];
-	path.push(target.text);
-	if (target.parent === "#") {
-		return path.reverse().join("/");
-	} else {
-		return search1(arr, target.parent, path)
-	}
-}
-
-
-
-
-
-/* function search(arr, id, prev=[]) {
-	let found;
-	const len = arr.length;
-	
-	
-	for (let i=0; i<len; i+=1) {
-		if (found) break;
-		c+=1;
-		const obj = arr[i];
-		if (obj.id === id) {
-			found = obj;
-			prev.push(obj.text);
-			break;
-		}
-		
-		const children = obj.children;
-		if (children) {
-			prev.push(obj.text);
-			found = search(children, id, prev);
-		}
-	}
-	
-	if (found && found.id) {
-		return { found, path: prev.join("/") };
-	} else {
-		prev.pop();
-		return found;
-	}
-} */
 
 
 
