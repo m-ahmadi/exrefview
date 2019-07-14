@@ -22,17 +22,26 @@ function convert(arr) {
 	return res;
 }
 
-function search(obj, id, path=[]) {
-	c+=1;
+function findPathById(obj, id, path=[]) {
 	let target = obj[id];
 	path.push(target.text);
 	if (target.parent === "#") {
 		return path.reverse().join("/");
 	} else {
-		return search(obj, target.parent, path)
+		return findPathById(obj, target.parent, path)
 	}
 }
 
+function search(str, obj) {
+	let res = [];
+	Object.keys(obj).forEach(k => {
+		c+=1;
+		if ( obj[k].text.includes(str) ) {
+			res.push(obj[k]);
+		}
+	});
+	return res;
+}
 
 
 
