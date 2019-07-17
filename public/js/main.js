@@ -6,8 +6,8 @@ $.get("./js/treedata.json", data => {
 	createJstree(data);
 	ndata = convert(data);
 	
-	log( search(ndata, 392) );
-	log( c );
+	//log( search(ndata, 392) );
+	//log( c );
 });
 
 var c = 0;
@@ -32,12 +32,12 @@ function findPathById(obj, id, path=[]) {
 	}
 }
 
-function search(str, obj) {
+function search(obj, str) {
 	let res = [];
 	Object.keys(obj).forEach(k => {
-		c+=1;
-		if ( obj[k].text.includes(str) ) {
-			res.push(obj[k]);
+		const prop = obj[k];
+		if ( prop.text.includes(str) ) {
+			res.push(prop.id);
 		}
 	});
 	return res;
@@ -46,15 +46,35 @@ function search(str, obj) {
 
 
 
+var awesomplete = new Awesomplete("#myInput", {
+	list: ['Ada', 'Java', 'JavaScript', 'Brainfuck', 'LOLCODE', 'Node.js', 'Ruby on Rails'],
+	item: function (text, input) {
+		var img = text.includes(".") ? text.split('.').pop() : "dir";
+		
+		var highlighted = text.replace(new RegExp(input, "ig"), `<mark>${input}</mark>`);
+		return $.parseHTML(`<li><img src="images/${img}.png" class="ico" />${highlighted}</li>`)[0];
+	}
+});
 
+$("#myInput").on("input", function (e) {
+	var inpText = $(e.target).val();
+	if (inpText.length > 2) {
+		var arr = search(ndata, inpText);
+		arr = arr.map(i => findPathById(ndata, i));
+		awesomplete.list = arr;
+		console.log(arr);
+	}
+	
+	
+});
 
+$("#myInput").on("awesomplete-select", function (e) {
+	debugger
+});
 
-
-
-
-
-
-
+$("#myInput").on("awesomplete-selectcomplete", function (e) {
+	debugger
+});
 
 function createJstree(data) {
 	const o = f => ({ "icon": f ? `images/${f}.png` : "jstree-file", "valid_children": [] });
