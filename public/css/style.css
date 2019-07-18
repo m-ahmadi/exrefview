@@ -4,3 +4,13 @@
 #myInput {
 	width: 600px;
 }
+
+#content {
+	float: right;
+	width: 80%;
+}
+
+#tree-container {
+	float: left;
+	width: 20%;
+}

@@ -43,37 +43,47 @@ function search(obj, str) {
 	return res;
 }
 
+function extname(str) {
+	return str.split('.').pop();
+}
+
+function template(lang, content, lines=true) {
+	return `<pre ${lines ? 'class="line-numbers"' : ''}><code class="language-${lang}">${content}</code></pre>`;
+}
 
 
 
-var awesomplete = new Awesomplete("#myInput", {
+const awesomplete = new Awesomplete("#myInput", {
 	list: ['Ada', 'Java', 'JavaScript', 'Brainfuck', 'LOLCODE', 'Node.js', 'Ruby on Rails'],
 	item: function (text, input) {
-		var img = text.includes(".") ? text.split('.').pop() : "dir";
-		
-		var highlighted = text.replace(new RegExp(input, "ig"), `<mark>${input}</mark>`);
+		let img = text.includes(".") ? extname(text) : "dir";
+		let highlighted = text.replace(new RegExp(input, "ig"), `<mark>${input}</mark>`);
 		return $.parseHTML(`<li><img src="images/${img}.png" class="ico" />${highlighted}</li>`)[0];
 	}
 });
 
 $("#myInput").on("input", function (e) {
-	var inpText = $(e.target).val();
+	const inpText = $(e.target).val();
 	if (inpText.length > 2) {
 		var arr = search(ndata, inpText);
-		arr = arr.map(i => findPathById(ndata, i));
-		awesomplete.list = arr;
-		console.log(arr);
+		awesomplete.list = arr.map(i => findPathById(ndata, i));
 	}
 	
 	
 });
 
 $("#myInput").on("awesomplete-select", function (e) {
-	debugger
+	const item = e.originalEvent.text.value;
+	const ext = extname(item);
+	const url = "./data/" + item;
+	$.get(url, data => {
+		$("#content").html( template(ext, data) );
+		Prism.highlightAll();
+	});
 });
 
 $("#myInput").on("awesomplete-selectcomplete", function (e) {
-	debugger
+	
 });
 
 function createJstree(data) {
