@@ -54,7 +54,9 @@ function template(lang, content, lines=true) {
 
 
 const awesomplete = new Awesomplete("#myInput", {
-	list: ['Ada', 'Java', 'JavaScript', 'Brainfuck', 'LOLCODE', 'Node.js', 'Ruby on Rails'],
+	minChars: 2,
+	maxItems: 20,
+	list: [],
 	item: function (text, input) {
 		let img = text.includes(".") ? extname(text) : "dir";
 		let highlighted = text.replace(new RegExp(input, "ig"), `<mark>${input}</mark>`);
@@ -76,6 +78,7 @@ $("#myInput").on("awesomplete-select", function (e) {
 	const item = e.originalEvent.text.value;
 	const ext = extname(item);
 	const url = "./data/" + item;
+	debugger
 	$.get(url, data => {
 		$("#content").html( template(ext, data) );
 		Prism.highlightAll();
