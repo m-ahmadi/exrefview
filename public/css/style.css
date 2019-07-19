@@ -3,6 +3,7 @@
 }
 #myInput {
 	width: 600px;
+	float: left;
 }
 
 #content {
@@ -15,4 +16,5 @@
 	width: 20%;
 	height: 500px;
 	overflow: scroll;
+	position: fixed;
 }

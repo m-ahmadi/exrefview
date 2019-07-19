@@ -78,7 +78,7 @@ $("#myInput").on("awesomplete-select", function (e) {
 	const item = e.originalEvent.text.value;
 	const ext = extname(item);
 	const url = "./data/" + item;
-	debugger
+	
 	$.get(url, data => {
 		$("#content").html( template(ext, data) );
 		Prism.highlightAll();
