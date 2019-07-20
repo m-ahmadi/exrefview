@@ -79,6 +79,7 @@ $("#myInput").on("awesomplete-select", function (e) {
 	const ext = extname(item);
 	const url = "./data/" + item;
 	
+	history.pushState(item, ext, "#!"+item);
 	$.get(url, data => {
 		$("#content").html( template(ext, data) );
 		Prism.highlightAll();
@@ -88,6 +89,35 @@ $("#myInput").on("awesomplete-select", function (e) {
 $("#myInput").on("awesomplete-selectcomplete", function (e) {
 	
 });
+
+
+
+window.addEventListener('popstate', function(e ){
+	console.log("onpopstate fired", e);
+});
+
+/* window.onpopstate = function(e) {
+  
+}; */
+
+
+window.onhashchange = function (e) {
+	console.log("onhashchange fired", e);
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 function createJstree(data) {
 	const o = f => ({ "icon": f ? `images/${f}.png` : "jstree-file", "valid_children": [] });
