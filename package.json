@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	  "gentree": "node scripts/gentree.js --path ./public/data > public/js/treedata.json",
+    "gentree": "node scripts/gentree.js --path ./public/data > public/js/treedata.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

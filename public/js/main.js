@@ -44,7 +44,8 @@ function search(obj, str) {
 }
 
 function extname(str) {
-	return str.split('.').pop();
+	// return str.split('.').pop();
+	return str.slice( (Math.max(0, str.lastIndexOf(".")) || Infinity) + 1 );
 }
 
 function template(lang, content, lines=true) {
@@ -70,8 +71,6 @@ $("#myInput").on("input", function (e) {
 		var arr = search(ndata, inpText);
 		awesomplete.list = arr.map(i => findPathById(ndata, i));
 	}
-	
-	
 });
 
 $("#myInput").on("awesomplete-select", function (e) {
@@ -92,7 +91,7 @@ $("#myInput").on("awesomplete-selectcomplete", function (e) {
 
 
 
-window.addEventListener('popstate', function(e ){
+window.addEventListener('popstate', function (e) {
 	console.log("onpopstate fired", e);
 });
 
@@ -100,10 +99,13 @@ window.addEventListener('popstate', function(e ){
   
 }; */
 
+/* window.onhashchange = function (e) {
+	
+}; */
 
-window.onhashchange = function (e) {
+window.addEventListener('hashchange', function (e) {
 	console.log("onhashchange fired", e);
-};
+});
 
 
 
@@ -172,8 +174,12 @@ function createJstree(data) {
 		},
 		plugins: ["types"]
 	});
+	
 	$('#tree-container').on("changed.jstree", function (e, data) {
-		log(data.selected);
+		debugger
+	});
+	$('#tree-container').on("open_node.jstree", function (e, data) {
+		debugger
 	});
 }
 /*
