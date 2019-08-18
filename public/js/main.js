@@ -48,11 +48,34 @@ function extname(str) {
 	return str.slice( (Math.max(0, str.lastIndexOf(".")) || Infinity) + 1 );
 }
 
-function template(lang, content, lines=true) {
-	return `<pre ${lines ? 'class="line-numbers"' : ''}><code class="language-${lang}">${content}</code></pre>`;
+function template(content, url) {
+	const ext = extname(url);
+	const lines = ext !== "txt";
+	let html = "";
+	
+	if (ext === "png" || ext === "jpg" || ext === "gif") {
+		html = `<img src="${url}"/>`;
+	} else {
+		html =  `
+		<pre ${lines ? 'class="line-numbers"' : ''}>
+			<code class="language-${ext}">${content}</code>
+		</pre>`;
+	}
+	return html;
 }
-
-
+function getFileAndRender(url) {
+	const ext = extname(url);
+	$.ajax({
+		url,
+		dataType: "text",
+		method: "GET"
+	})
+	.done(data => {
+		const html = template(data, url);
+		$("#content").html(html);
+		Prism.highlightAll();
+	});
+}
 
 const awesomplete = new Awesomplete("#myInput", {
 	minChars: 2,
@@ -79,10 +102,7 @@ $("#myInput").on("awesomplete-select", function (e) {
 	const url = "./data/" + item;
 	
 	history.pushState(item, ext, "#!"+item);
-	$.get(url, data => {
-		$("#content").html( template(ext, data) );
-		Prism.highlightAll();
-	});
+	getFileAndRender(url);
 });
 
 $("#myInput").on("awesomplete-selectcomplete", function (e) {
@@ -106,20 +126,6 @@ window.addEventListener('popstate', function (e) {
 window.addEventListener('hashchange', function (e) {
 	console.log("onhashchange fired", e);
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 function createJstree(data) {
 	const o = f => ({ "icon": f ? `images/${f}.png` : "jstree-file", "valid_children": [] });
@@ -176,10 +182,13 @@ function createJstree(data) {
 	});
 	
 	$('#tree-container').on("changed.jstree", function (e, data) {
-		debugger
+		if (data.node.children.length === 0) {
+			const path = findPathById(ndata, +data.node.id);
+			getFileAndRender("./data/"+path);
+		}
 	});
 	$('#tree-container').on("open_node.jstree", function (e, data) {
-		debugger
+		//debugger
 	});
 }
 /*
